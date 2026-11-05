@@ -4,7 +4,7 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "desc": "All Algorithms implemented in Python",
-      "stars": 225900,
+      "stars": 225898,
       "lang": "Python",
       "topics": [
         "algorithm",
@@ -40,7 +40,7 @@
       "full_name": "TheAlgorithms/JavaScript",
       "url": "https://github.com/TheAlgorithms/JavaScript",
       "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
-      "stars": 34280,
+      "stars": 34281,
       "lang": "JavaScript",
       "topics": [
         "algorithm",
@@ -486,7 +486,7 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196720,
+      "stars": 196719,
       "lang": "JavaScript",
       "topics": [
         "algorithm",
@@ -504,7 +504,7 @@
       "full_name": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "stars": 131961,
+      "stars": 131962,
       "lang": "Swift",
       "topics": [
         "algo",
@@ -793,7 +793,7 @@
       "full_name": "graphif/project-graph",
       "url": "https://github.com/graphif/project-graph",
       "desc": "A node-based visual tool for organizing thoughts and notes in a non-linear way.",
-      "stars": 4518,
+      "stars": 4517,
       "lang": "TypeScript",
       "topics": [
         "canvas",
@@ -1707,7 +1707,7 @@
       "full_name": "lz4/lz4",
       "url": "https://github.com/lz4/lz4",
       "desc": "Extremely Fast Compression algorithm",
-      "stars": 12267,
+      "stars": 12270,
       "lang": "C",
       "topics": [
         "c",
@@ -3237,7 +3237,7 @@
       "full_name": "aadi1011/AI-ML-Roadmap-from-scratch",
       "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
       "desc": "Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.",
-      "stars": 4294,
+      "stars": 4295,
       "lang": null,
       "topics": [
         "ai",
@@ -4047,7 +4047,7 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "desc": "Open Source Computer Vision Library",
-      "stars": 91468,
+      "stars": 91469,
       "lang": "C++",
       "topics": [
         "c-plus-plus",
@@ -4686,7 +4686,7 @@
       "full_name": "etcd-io/etcd",
       "url": "https://github.com/etcd-io/etcd",
       "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "stars": 52451,
+      "stars": 52453,
       "lang": "Go",
       "topics": [
         "cncf",
@@ -4929,7 +4929,7 @@
       "full_name": "Tencent/phxpaxos",
       "url": "https://github.com/Tencent/phxpaxos",
       "desc": "The Paxos library implemented in C++ that has been used in the WeChat production environment.",
-      "stars": 3383,
+      "stars": 3382,
       "lang": "C++",
       "topics": [],
       "pushed": "2023-12-04",
@@ -6144,7 +6144,7 @@
       "full_name": "erincatto/box2d",
       "url": "https://github.com/erincatto/box2d",
       "desc": "Box2D is a 2D physics engine for games",
-      "stars": 10473,
+      "stars": 10474,
       "lang": "C",
       "topics": [],
       "pushed": "2026-10-30",
@@ -6211,7 +6211,7 @@
       "full_name": "schteppe/cannon.js",
       "url": "https://github.com/schteppe/cannon.js",
       "desc": "A lightweight 3D physics engine written in JavaScript.",
-      "stars": 5012,
+      "stars": 5011,
       "lang": "JavaScript",
       "topics": [
         "javascript",
