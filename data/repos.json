@@ -4,7 +4,7 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "desc": "All Algorithms implemented in Python",
-      "stars": 225973,
+      "stars": 226169,
       "lang": "Python",
       "topics": [
         "algorithm",
@@ -14,7 +14,7 @@
         "community-driven",
         "education"
       ],
-      "pushed": "2026-11-02",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "Sorting"
     },
@@ -22,7 +22,7 @@
       "full_name": "TheAlgorithms/Java",
       "url": "https://github.com/TheAlgorithms/Java",
       "desc": "All Algorithms implemented in Java",
-      "stars": 66776,
+      "stars": 67255,
       "lang": "Java",
       "topics": [
         "algorithm",
@@ -32,7 +32,7 @@
         "data-structures",
         "hacktoberfest"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-14",
       "archived": false,
       "task": "Sorting"
     },
@@ -40,7 +40,7 @@
       "full_name": "TheAlgorithms/JavaScript",
       "url": "https://github.com/TheAlgorithms/JavaScript",
       "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
-      "stars": 34280,
+      "stars": 34273,
       "lang": "JavaScript",
       "topics": [
         "algorithm",
@@ -58,7 +58,7 @@
       "full_name": "williamfiset/algorithms",
       "url": "https://github.com/williamfiset/algorithms",
       "desc": "A collection of algorithms and data structures",
-      "stars": 18889,
+      "stars": 18900,
       "lang": "Java",
       "topics": [
         "adjacency",
@@ -68,7 +68,7 @@
         "dijkstra",
         "dynamic-programming"
       ],
-      "pushed": "2026-06-23",
+      "pushed": "2026-11-09",
       "archived": false,
       "task": "Sorting"
     },
@@ -76,7 +76,7 @@
       "full_name": "TheAlgorithms/Go",
       "url": "https://github.com/TheAlgorithms/Go",
       "desc": "Algorithms and Data Structures implemented in Go for beginners, following best practices.",
-      "stars": 18249,
+      "stars": 18261,
       "lang": "Go",
       "topics": [
         "algorithms",
@@ -94,7 +94,7 @@
       "full_name": "OpenGenus/cosmos",
       "url": "https://github.com/OpenGenus/cosmos",
       "desc": "World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project",
-      "stars": 13744,
+      "stars": 13745,
       "lang": "C++",
       "topics": [
         "algorithm",
@@ -122,7 +122,7 @@
         "graph",
         "graph-algorithms"
       ],
-      "pushed": "2026-10-15",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "Sorting"
     },
@@ -148,7 +148,7 @@
       "full_name": "hustcc/JS-Sorting-Algorithm",
       "url": "https://github.com/hustcc/JS-Sorting-Algorithm",
       "desc": "一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。",
-      "stars": 5188,
+      "stars": 5190,
       "lang": "Java",
       "topics": [
         "algorithm",
@@ -166,7 +166,7 @@
       "full_name": "loiane/javascript-datastructures-algorithms",
       "url": "https://github.com/loiane/javascript-datastructures-algorithms",
       "desc": ":books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book",
-      "stars": 4885,
+      "stars": 4886,
       "lang": "TypeScript",
       "topics": [
         "algorithm",
@@ -183,8 +183,8 @@
     {
       "full_name": "ashvardanian/StringZilla",
       "url": "https://github.com/ashvardanian/StringZilla",
-      "desc": "Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖",
-      "stars": 3586,
+      "desc": "SIMD, SWAR & GPU kernels for strings: search, hashing, sorting, edit distances, UTF-8 segmentation & ciphers for C, C++, CUDA, Python, Rust, Go, Swift, JS, C# & Java 🦖",
+      "stars": 3593,
       "lang": "C",
       "topics": [
         "dataset",
@@ -194,7 +194,7 @@
         "hashing",
         "information-retrieval"
       ],
-      "pushed": "2026-10-31",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Sorting"
     },
@@ -202,7 +202,7 @@
       "full_name": "scandum/quadsort",
       "url": "https://github.com/scandum/quadsort",
       "desc": "Quadsort is a branchless stable adaptive mergesort faster than quicksort.",
-      "stars": 2209,
+      "stars": 2210,
       "lang": "C",
       "topics": [
         "algorithm",
@@ -220,7 +220,7 @@
       "full_name": "KeKe-Li/data-structures-questions",
       "url": "https://github.com/KeKe-Li/data-structures-questions",
       "desc": "golang sorting algorithm and data construction.",
-      "stars": 1866,
+      "stars": 1867,
       "lang": null,
       "topics": [
         "algorithm",
@@ -236,7 +236,7 @@
       "full_name": "gustavo-depaula/stalin-sort",
       "url": "https://github.com/gustavo-depaula/stalin-sort",
       "desc": "Add a stalin sort algorithm in any language you like ❣️ if you like give us a ⭐️",
-      "stars": 1715,
+      "stars": 1711,
       "lang": "Rocq Prover",
       "topics": [
         "hacktoberfest",
@@ -250,7 +250,7 @@
       "full_name": "orlp/glidesort",
       "url": "https://github.com/orlp/glidesort",
       "desc": "A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm. ",
-      "stars": 1657,
+      "stars": 1659,
       "lang": "Rust",
       "topics": [],
       "pushed": "2023-02-07",
@@ -279,7 +279,7 @@
       "full_name": "m9rco/algorithm-php",
       "url": "https://github.com/m9rco/algorithm-php",
       "desc": "Algorithms and data structures implemented in PHP: sorting, searching, graphs, recursion and dynamic programming, with Chinese and English learning notes. PHP 算法与数据结构学习合集。",
-      "stars": 1375,
+      "stars": 1376,
       "lang": "PHP",
       "topics": [
         "algorithms",
@@ -308,7 +308,7 @@
       "full_name": "bingmann/sound-of-sorting",
       "url": "https://github.com/bingmann/sound-of-sorting",
       "desc": "The Sound of Sorting - \"Audibilization\" and Visualization of Sorting Algorithms",
-      "stars": 916,
+      "stars": 917,
       "lang": "C++",
       "topics": [],
       "pushed": "2024-12-22",
@@ -316,10 +316,28 @@
       "task": "Sorting"
     },
     {
+      "full_name": "nishant-Tiwari24/data-structures-algorithms",
+      "url": "https://github.com/nishant-Tiwari24/data-structures-algorithms",
+      "desc": "Data structures and algorithms in C++, topic by topic: arrays, binary search, trees, bit manipulation, DP and more.",
+      "stars": 788,
+      "lang": "C++",
+      "topics": [
+        "algorithms",
+        "binary-search",
+        "cpp",
+        "data-structures",
+        "dsa",
+        "dynamic-programming"
+      ],
+      "pushed": "2024-11-04",
+      "archived": false,
+      "task": "Searching"
+    },
+    {
       "full_name": "sadanandpai/algo-visualizers",
       "url": "https://github.com/sadanandpai/algo-visualizers",
       "desc": "Algorithms Visualizers",
-      "stars": 722,
+      "stars": 723,
       "lang": "TypeScript",
       "topics": [
         "algorithms",
@@ -337,7 +355,7 @@
       "full_name": "mszula/visual-sorting",
       "url": "https://github.com/mszula/visual-sorting",
       "desc": "🔮 🔈 Visual Sorting (aka \"The Sound Of Sorting\") is a tool that provides a visualization of sorting algorithms, accompanied by an auditory experience. ",
-      "stars": 701,
+      "stars": 703,
       "lang": "Svelte",
       "topics": [
         "bitonic-sort",
@@ -355,7 +373,7 @@
       "full_name": "scandum/binary_search",
       "url": "https://github.com/scandum/binary_search",
       "desc": "A collection of improved binary search algorithms.",
-      "stars": 685,
+      "stars": 686,
       "lang": "C",
       "topics": [
         "binary-search"
@@ -379,7 +397,7 @@
       "full_name": "ForeignGods/Sorting-Algorithms-Blender",
       "url": "https://github.com/ForeignGods/Sorting-Algorithms-Blender",
       "desc": "Sorting algorithms visualized using the Blender Python API.",
-      "stars": 647,
+      "stars": 648,
       "lang": "Python",
       "topics": [
         "blender",
@@ -405,7 +423,7 @@
       "full_name": "LucasPilla/Sorting-Algorithms-Visualizer",
       "url": "https://github.com/LucasPilla/Sorting-Algorithms-Visualizer",
       "desc": "An educational tool for visualizing sorting algorithms.",
-      "stars": 458,
+      "stars": 459,
       "lang": "Python",
       "topics": [
         "algorithms",
@@ -440,14 +458,14 @@
       "full_name": "cortex-lab/phy",
       "url": "https://github.com/cortex-lab/phy",
       "desc": "phy: interactive visualization and manual spike sorting of large-scale ephys data",
-      "stars": 437,
+      "stars": 438,
       "lang": "Python",
       "topics": [
         "data-analysis",
         "electrophysiology",
         "python"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "Sorting"
     },
@@ -455,28 +473,10 @@
       "full_name": "zszszszsz/.config",
       "url": "https://github.com/zszszszsz/.config",
       "desc": "# # Automatically generated file; DO NOT EDIT. # OpenWrt Configuration # CONFIG_MODULES=y CONFIG_HAVE_DOT_CONFIG=y # CONFIG_TARGET_sunxi is not set # CONFIG_TARGET_apm821xx is not set # CONFIG_TARGET_ath25 is not set CON",
-      "stars": 366,
+      "stars": 372,
       "lang": "Shell",
       "topics": [],
       "pushed": "2023-10-05",
-      "archived": false,
-      "task": "Searching"
-    },
-    {
-      "full_name": "amitbansal7/Data-Structures-and-Algorithms",
-      "url": "https://github.com/amitbansal7/Data-Structures-and-Algorithms",
-      "desc": "Implementation of various Data Structures and algorithms - Linked List, Stacks, Queues, Binary Search Tree, AVL tree,Red Black Trees, Trie, Graph Algorithms, Sorting Algorithms, Greedy Algorithms, Dynamic Programming, Se",
-      "stars": 265,
-      "lang": "C",
-      "topics": [
-        "algorithms",
-        "avl-tree",
-        "binary-search-tree",
-        "c",
-        "cpp",
-        "data-structures"
-      ],
-      "pushed": "2019-10-31",
       "archived": false,
       "task": "Searching"
     }
@@ -486,7 +486,7 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196722,
+      "stars": 196728,
       "lang": "JavaScript",
       "topics": [
         "algorithm",
@@ -504,7 +504,7 @@
       "full_name": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "stars": 132066,
+      "stars": 132351,
       "lang": "Python",
       "topics": [
         "algo",
@@ -514,7 +514,7 @@
         "data-structure",
         "data-structures"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Data structures"
     },
@@ -522,7 +522,7 @@
       "full_name": "TheAlgorithms/C-Plus-Plus",
       "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
       "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-      "stars": 34869,
+      "stars": 34889,
       "lang": "C++",
       "topics": [
         "algorithm",
@@ -537,16 +537,34 @@
       "task": "Data structures"
     },
     {
+      "full_name": "apify/crawlee-python",
+      "url": "https://github.com/apify/crawlee-python",
+      "desc": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehand. Works with Beauti",
+      "stars": 9678,
+      "lang": "Python",
+      "topics": [
+        "apify",
+        "automation",
+        "beautifulsoup",
+        "crawler",
+        "crawling",
+        "headless"
+      ],
+      "pushed": "2026-11-16",
+      "archived": false,
+      "task": "Data structures"
+    },
+    {
       "full_name": "petgraph/petgraph",
       "url": "https://github.com/petgraph/petgraph",
       "desc": "Graph data structure library for Rust.",
-      "stars": 4054,
+      "stars": 4062,
       "lang": "Rust",
       "topics": [
         "graph-algorithms",
         "rust"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Data structures"
     },
@@ -554,7 +572,7 @@
       "full_name": "ShahjalalShohag/code-library",
       "url": "https://github.com/ShahjalalShohag/code-library",
       "desc": "Templates, algorithms and data structures implemented and collected for programming contests.",
-      "stars": 3751,
+      "stars": 3763,
       "lang": "C++",
       "topics": [
         "algorithms",
@@ -581,7 +599,7 @@
         "isc",
         "library"
       ],
-      "pushed": "2026-03-17",
+      "pushed": "2026-11-11",
       "archived": false,
       "task": "Data structures"
     },
@@ -589,7 +607,7 @@
       "full_name": "swannodette/mori",
       "url": "https://github.com/swannodette/mori",
       "desc": "ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript",
-      "stars": 3372,
+      "stars": 3371,
       "lang": "Clojure",
       "topics": [],
       "pushed": "2026-03-06",
@@ -618,7 +636,7 @@
       "full_name": "bits-and-blooms/bloom",
       "url": "https://github.com/bits-and-blooms/bloom",
       "desc": "Go package implementing Bloom filters, used by many important systems",
-      "stars": 2834,
+      "stars": 2837,
       "lang": "Go",
       "topics": [
         "bloom",
@@ -649,7 +667,7 @@
       "full_name": "orium/rpds",
       "url": "https://github.com/orium/rpds",
       "desc": "Rust persistent data structures",
-      "stars": 1787,
+      "stars": 1789,
       "lang": "Rust",
       "topics": [
         "data-structure",
@@ -677,7 +695,7 @@
       "full_name": "seiflotfy/cuckoofilter",
       "url": "https://github.com/seiflotfy/cuckoofilter",
       "desc": "Cuckoo Filter: Practically Better Than Bloom",
-      "stars": 1234,
+      "stars": 1233,
       "lang": "Go",
       "topics": [],
       "pushed": "2024-07-15",
@@ -688,7 +706,7 @@
       "full_name": "datacrypt-project/hitchhiker-tree",
       "url": "https://github.com/datacrypt-project/hitchhiker-tree",
       "desc": "Functional, persistent, off-heap, high performance data structure",
-      "stars": 1220,
+      "stars": 1221,
       "lang": "Clojure",
       "topics": [],
       "pushed": "2018-07-22",
@@ -699,7 +717,7 @@
       "full_name": "jasondavies/bloomfilter.js",
       "url": "https://github.com/jasondavies/bloomfilter.js",
       "desc": "JavaScript bloom filter using FNV for fast hashing",
-      "stars": 785,
+      "stars": 786,
       "lang": "JavaScript",
       "topics": [],
       "pushed": "2026-10-18",
@@ -726,7 +744,7 @@
       "full_name": "axiak/pybloomfiltermmap",
       "url": "https://github.com/axiak/pybloomfiltermmap",
       "desc": "Fast Python Bloom Filter using Mmap",
-      "stars": 744,
+      "stars": 745,
       "lang": "C",
       "topics": [],
       "pushed": "2019-11-04",
@@ -739,7 +757,7 @@
       "full_name": "networkx/networkx",
       "url": "https://github.com/networkx/networkx",
       "desc": "Network Analysis in Python",
-      "stars": 17392,
+      "stars": 17395,
       "lang": "Python",
       "topics": [
         "complex-networks",
@@ -749,7 +767,7 @@
         "graph-theory",
         "graph-visualization"
       ],
-      "pushed": "2026-11-04",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Graphs"
     },
@@ -757,7 +775,7 @@
       "full_name": "cytoscape/cytoscape.js",
       "url": "https://github.com/cytoscape/cytoscape.js",
       "desc": "Graph theory (network) library for visualisation and analysis",
-      "stars": 11275,
+      "stars": 11292,
       "lang": "JavaScript",
       "topics": [
         "analysis",
@@ -767,7 +785,7 @@
         "network",
         "visualisation"
       ],
-      "pushed": "2026-11-05",
+      "pushed": "2026-11-10",
       "archived": false,
       "task": "Graph theory"
     },
@@ -775,7 +793,7 @@
       "full_name": "memgraph/memgraph",
       "url": "https://github.com/memgraph/memgraph",
       "desc": "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.",
-      "stars": 4657,
+      "stars": 4661,
       "lang": "C++",
       "topics": [
         "ai",
@@ -785,7 +803,7 @@
         "cypher",
         "enterprise-context"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Graphs"
     },
@@ -793,7 +811,7 @@
       "full_name": "graphif/project-graph",
       "url": "https://github.com/graphif/project-graph",
       "desc": "A node-based visual tool for organizing thoughts and notes in a non-linear way.",
-      "stars": 4527,
+      "stars": 4536,
       "lang": "TypeScript",
       "topics": [
         "canvas",
@@ -803,7 +821,7 @@
         "graph-algorithms",
         "project-graph"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Graphs"
     },
@@ -811,7 +829,7 @@
       "full_name": "purpleidea/mgmt",
       "url": "https://github.com/purpleidea/mgmt",
       "desc": "Next generation distributed, event-driven, parallel config management!",
-      "stars": 4343,
+      "stars": 4347,
       "lang": "Go",
       "topics": [
         "choreography",
@@ -821,25 +839,7 @@
         "distributed-systems",
         "etcd"
       ],
-      "pushed": "2026-11-07",
-      "archived": false,
-      "task": "Graph theory"
-    },
-    {
-      "full_name": "briatte/awesome-network-analysis",
-      "url": "https://github.com/briatte/awesome-network-analysis",
-      "desc": "A curated list of awesome network analysis resources.",
-      "stars": 4147,
-      "lang": "R",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "complex-networks",
-        "disease-networks",
-        "graph-theory",
-        "historical-networks"
-      ],
-      "pushed": "2026-08-20",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Graph theory"
     },
@@ -847,7 +847,7 @@
       "full_name": "cozodb/cozo",
       "url": "https://github.com/cozodb/cozo",
       "desc": "A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!",
-      "stars": 4145,
+      "stars": 4151,
       "lang": "Rust",
       "topics": [
         "client-server",
@@ -862,10 +862,28 @@
       "task": "Graphs"
     },
     {
+      "full_name": "briatte/awesome-network-analysis",
+      "url": "https://github.com/briatte/awesome-network-analysis",
+      "desc": "A curated list of awesome network analysis resources.",
+      "stars": 4151,
+      "lang": "R",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "complex-networks",
+        "disease-networks",
+        "graph-theory",
+        "historical-networks"
+      ],
+      "pushed": "2026-08-20",
+      "archived": false,
+      "task": "Graph theory"
+    },
+    {
       "full_name": "anvaka/VivaGraphJS",
       "url": "https://github.com/anvaka/VivaGraphJS",
       "desc": "Graph drawing library for JavaScript",
-      "stars": 3867,
+      "stars": 3869,
       "lang": "JavaScript",
       "topics": [
         "graph",
@@ -883,7 +901,7 @@
       "full_name": "alibaba/Alink",
       "url": "https://github.com/alibaba/Alink",
       "desc": "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform. ",
-      "stars": 3614,
+      "stars": 3612,
       "lang": "Java",
       "topics": [
         "apriori",
@@ -901,7 +919,7 @@
       "full_name": "zjhellofss/KuiperInfer",
       "url": "https://github.com/zjhellofss/KuiperInfer",
       "desc": "校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step",
-      "stars": 3520,
+      "stars": 3521,
       "lang": "C++",
       "topics": [
         "caffe",
@@ -919,7 +937,7 @@
       "full_name": "rachitiitr/DataStructures-Algorithms",
       "url": "https://github.com/rachitiitr/DataStructures-Algorithms",
       "desc": "The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!",
-      "stars": 2961,
+      "stars": 2964,
       "lang": "C++",
       "topics": [
         "algorithms",
@@ -955,7 +973,7 @@
       "full_name": "lkarlslund/Adalanche",
       "url": "https://github.com/lkarlslund/Adalanche",
       "desc": "Attack Graph Visualizer and Explorer (Active Directory) ...Who's *really* Domain Admin?",
-      "stars": 2222,
+      "stars": 2226,
       "lang": "Go",
       "topics": [
         "acl",
@@ -973,7 +991,7 @@
       "full_name": "igraph/igraph",
       "url": "https://github.com/igraph/igraph",
       "desc": "Library for the analysis of networks",
-      "stars": 2022,
+      "stars": 2023,
       "lang": "C",
       "topics": [
         "c",
@@ -983,7 +1001,7 @@
         "mathematics",
         "network-analysis"
       ],
-      "pushed": "2026-11-05",
+      "pushed": "2026-11-09",
       "archived": false,
       "task": "Graph theory"
     },
@@ -991,7 +1009,7 @@
       "full_name": "mrpandey/d3graphTheory",
       "url": "https://github.com/mrpandey/d3graphTheory",
       "desc": ":boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:",
-      "stars": 1856,
+      "stars": 1855,
       "lang": "JavaScript",
       "topics": [
         "algorithms",
@@ -1009,7 +1027,7 @@
       "full_name": "chynl/snake",
       "url": "https://github.com/chynl/snake",
       "desc": "Playing the game of snake with AI.",
-      "stars": 1797,
+      "stars": 1796,
       "lang": "Python",
       "topics": [
         "ai",
@@ -1038,7 +1056,7 @@
       "full_name": "bgrins/javascript-astar",
       "url": "https://github.com/bgrins/javascript-astar",
       "desc": "A* Search / Pathfinding Algorithm in Javascript",
-      "stars": 1392,
+      "stars": 1396,
       "lang": "JavaScript",
       "topics": [],
       "pushed": "2023-09-04",
@@ -1049,7 +1067,7 @@
       "full_name": "libtcod/libtcod",
       "url": "https://github.com/libtcod/libtcod",
       "desc": "A collection of tools and algorithms for developing traditional roguelikes.  Such as field-of-view, pathfinding, and a tile-based terminal emulator.",
-      "stars": 1240,
+      "stars": 1243,
       "lang": "C",
       "topics": [
         "c-library",
@@ -1059,7 +1077,7 @@
         "field-of-view",
         "fov-algorithms"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Pathfinding"
     },
@@ -1083,7 +1101,7 @@
       "full_name": "neo4j/graph-data-science",
       "url": "https://github.com/neo4j/graph-data-science",
       "desc": "Source code for the Neo4j Graph Data Science library of graph algorithms.",
-      "stars": 826,
+      "stars": 827,
       "lang": "Java",
       "topics": [
         "graph",
@@ -1118,7 +1136,7 @@
       "full_name": "yourbasic/graph",
       "url": "https://github.com/yourbasic/graph",
       "desc": "Graph algorithms and data structures",
-      "stars": 752,
+      "stars": 753,
       "lang": "Go",
       "topics": [
         "data-structures",
@@ -1136,7 +1154,7 @@
       "full_name": "ZigRazor/CXXGraph",
       "url": "https://github.com/ZigRazor/CXXGraph",
       "desc": "Header-Only C++ Library for Graph Representation and Algorithms",
-      "stars": 738,
+      "stars": 741,
       "lang": "C++",
       "topics": [
         "algorithm",
@@ -1194,7 +1212,7 @@
       "full_name": "Habrador/Self-driving-vehicle",
       "url": "https://github.com/Habrador/Self-driving-vehicle",
       "desc": "Simulation of path planning for self-driving vehicles in Unity. This is also an implementation of the Hybrid A* pathfinding algorithm which is useful if you are interested in pathfinding for vehicles.",
-      "stars": 463,
+      "stars": 464,
       "lang": "C#",
       "topics": [
         "a-star",
@@ -1250,7 +1268,7 @@
       "full_name": "BurntSushi/aho-corasick",
       "url": "https://github.com/BurntSushi/aho-corasick",
       "desc": "A fast implementation of Aho-Corasick in Rust.",
-      "stars": 1306,
+      "stars": 1311,
       "lang": "Rust",
       "topics": [
         "aho-corasick",
@@ -1267,7 +1285,7 @@
       "full_name": "WojciechMula/pyahocorasick",
       "url": "https://github.com/WojciechMula/pyahocorasick",
       "desc": "Python module (C extension and plain python) implementing Aho-Corasick algorithm",
-      "stars": 1136,
+      "stars": 1137,
       "lang": "C",
       "topics": [
         "aho-corasick",
@@ -1283,7 +1301,7 @@
       "full_name": "hankcs/AhoCorasickDoubleArrayTrie",
       "url": "https://github.com/hankcs/AhoCorasickDoubleArrayTrie",
       "desc": "An extremely fast implementation of Aho Corasick algorithm based on Double Array Trie.",
-      "stars": 1018,
+      "stars": 1019,
       "lang": "Java",
       "topics": [
         "aho-corasick",
@@ -1300,7 +1318,7 @@
       "full_name": "robert-bor/aho-corasick",
       "url": "https://github.com/robert-bor/aho-corasick",
       "desc": "Java implementation of the Aho-Corasick algorithm for efficient string matching",
-      "stars": 995,
+      "stars": 996,
       "lang": "Java",
       "topics": [],
       "pushed": "2025-05-21",
@@ -1329,7 +1347,7 @@
       "full_name": "JakeBayer/FuzzySharp",
       "url": "https://github.com/JakeBayer/FuzzySharp",
       "desc": "C# .NET fuzzy string matching implementation of Seat Geek's well known python FuzzyWuzzy algorithm. ",
-      "stars": 797,
+      "stars": 798,
       "lang": "C#",
       "topics": [],
       "pushed": "2024-08-20",
@@ -1340,7 +1358,7 @@
       "full_name": "cloudflare/ahocorasick",
       "url": "https://github.com/cloudflare/ahocorasick",
       "desc": "A Golang implementation of the Aho-Corasick string matching algorithm",
-      "stars": 729,
+      "stars": 730,
       "lang": "Go",
       "topics": [],
       "pushed": "2026-04-24",
@@ -1362,7 +1380,7 @@
       "full_name": "Martinsos/edlib",
       "url": "https://github.com/Martinsos/edlib",
       "desc": "Lightweight, super fast C/C++ (& Python) library for sequence alignment using edit (Levenshtein) distance.",
-      "stars": 612,
+      "stars": 613,
       "lang": "C++",
       "topics": [
         "alignment-path",
@@ -1380,7 +1398,7 @@
       "full_name": "hbollon/go-edlib",
       "url": "https://github.com/hbollon/go-edlib",
       "desc": "📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...",
-      "stars": 607,
+      "stars": 608,
       "lang": "Go",
       "topics": [
         "algorithms",
@@ -1414,7 +1432,7 @@
       "full_name": "life4/textdistance.rs",
       "url": "https://github.com/life4/textdistance.rs",
       "desc": "🦀📏 Rust library to compare strings (or any sequences). 25+ algorithms, pure Rust, common interface, Unicode support.",
-      "stars": 303,
+      "stars": 304,
       "lang": "Rust",
       "topics": [
         "damerau-levenshtein",
@@ -1443,7 +1461,7 @@
       "full_name": "daac-tools/daachorse",
       "url": "https://github.com/daac-tools/daachorse",
       "desc": "🐎 A fast implementation of the Aho-Corasick algorithm using the compact double-array data structure in Rust.",
-      "stars": 285,
+      "stars": 286,
       "lang": "Rust",
       "topics": [
         "aho-corasick",
@@ -1476,7 +1494,7 @@
       "full_name": "G-Research/ahocorasick_rs",
       "url": "https://github.com/G-Research/ahocorasick_rs",
       "desc": "Check for multiple patterns in a single string at the same time: a fast Aho-Corasick algorithm for Python",
-      "stars": 235,
+      "stars": 236,
       "lang": "Python",
       "topics": [
         "aho-corasick",
@@ -1622,7 +1640,7 @@
         "spelling-correction",
         "typescript"
       ],
-      "pushed": "2026-11-07",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Edit distance"
     },
@@ -1645,7 +1663,7 @@
       "full_name": "petar-dambovaliev/aho-corasick",
       "url": "https://github.com/petar-dambovaliev/aho-corasick",
       "desc": "efficient string matching in Golang via the aho-corasick algorithm.",
-      "stars": 96,
+      "stars": 97,
       "lang": "Go",
       "topics": [
         "aho-corasick",
@@ -1707,14 +1725,14 @@
       "full_name": "lz4/lz4",
       "url": "https://github.com/lz4/lz4",
       "desc": "Extremely Fast Compression algorithm",
-      "stars": 12735,
+      "stars": 12787,
       "lang": "C",
       "topics": [
         "c",
         "compression",
         "lz4"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Compression"
     },
@@ -1722,7 +1740,7 @@
       "full_name": "zeux/meshoptimizer",
       "url": "https://github.com/zeux/meshoptimizer",
       "desc": "Mesh optimization library that makes meshes smaller and faster to render",
-      "stars": 8819,
+      "stars": 8868,
       "lang": "C++",
       "topics": [
         "compression",
@@ -1740,7 +1758,7 @@
       "full_name": "LZMA-JS/LZMA-JS",
       "url": "https://github.com/LZMA-JS/LZMA-JS",
       "desc": "A JavaScript implementation of the Lempel-Ziv-Markov (LZMA) chain compression algorithm",
-      "stars": 688,
+      "stars": 689,
       "lang": "JavaScript",
       "topics": [],
       "pushed": "2021-08-18",
@@ -1750,8 +1768,8 @@
     {
       "full_name": "hellobertrand/zxc",
       "url": "https://github.com/hellobertrand/zxc",
-      "desc": "Lossless compression C library built for ultra-fast decode. Faster than LZ4 (+35% to 105%+; best on ARM64), at a better ratio. Official Rust, Python, Node.js, Go and WASM bindings. Write-once/read-many, with optional see",
-      "stars": 528,
+      "desc": "Lossless compression C library built for ultra-fast decode. Faster than LZ4 (+30% to 125%+; best on ARM64), at a better ratio. Official Rust, Python, Node.js, Go and WASM bindings. Write-once/read-many, with optional see",
+      "stars": 538,
       "lang": "C",
       "topics": [
         "arm64",
@@ -1761,7 +1779,7 @@
         "data-compression",
         "decompression"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Compression"
     },
@@ -1787,7 +1805,7 @@
       "full_name": "rygorous/ryg_rans",
       "url": "https://github.com/rygorous/ryg_rans",
       "desc": "Simple rANS encoder/decoder (arithmetic coding-ish entropy coder).",
-      "stars": 372,
+      "stars": 373,
       "lang": "C++",
       "topics": [],
       "pushed": "2022-11-21",
@@ -1798,7 +1816,7 @@
       "full_name": "nayuki/Reference-Huffman-coding",
       "url": "https://github.com/nayuki/Reference-Huffman-coding",
       "desc": "Clear implementation of Huffman coding for educational purposes in Java, Python, C++.",
-      "stars": 280,
+      "stars": 279,
       "lang": "Java",
       "topics": [
         "c-plus-plus",
@@ -1816,7 +1834,7 @@
       "full_name": "fab-jul/torchac",
       "url": "https://github.com/fab-jul/torchac",
       "desc": "Entropy coding / arithmetic coding for PyTorch",
-      "stars": 271,
+      "stars": 272,
       "lang": "Python",
       "topics": [
         "arithmetic-coding",
@@ -1888,7 +1906,7 @@
       "full_name": "openssl/openssl",
       "url": "https://github.com/openssl/openssl",
       "desc": "General purpose TLS and crypto library",
-      "stars": 31390,
+      "stars": 31460,
       "lang": "C",
       "topics": [
         "cryptography",
@@ -1898,7 +1916,7 @@
         "ssl",
         "tls"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Crypto"
     },
@@ -1906,7 +1924,7 @@
       "full_name": "jedisct1/libsodium",
       "url": "https://github.com/jedisct1/libsodium",
       "desc": "A modern, portable, easy to use crypto library.",
-      "stars": 14049,
+      "stars": 14060,
       "lang": "C",
       "topics": [
         "c",
@@ -1914,7 +1932,7 @@
         "cryptography",
         "zig-package"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Crypto"
     },
@@ -1940,7 +1958,7 @@
       "full_name": "Mbed-TLS/mbedtls",
       "url": "https://github.com/Mbed-TLS/mbedtls",
       "desc": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
-      "stars": 7057,
+      "stars": 7063,
       "lang": "C",
       "topics": [
         "crypto",
@@ -1949,7 +1967,7 @@
         "ssl",
         "tls"
       ],
-      "pushed": "2026-11-06",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Crypto"
     },
@@ -1957,10 +1975,10 @@
       "full_name": "BLAKE3-team/BLAKE3",
       "url": "https://github.com/BLAKE3-team/BLAKE3",
       "desc": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "stars": 6516,
+      "stars": 6530,
       "lang": "Assembly",
       "topics": [],
-      "pushed": "2026-10-01",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "Hashing"
     },
@@ -1968,7 +1986,7 @@
       "full_name": "weidai11/cryptopp",
       "url": "https://github.com/weidai11/cryptopp",
       "desc": "free C++ class library of cryptographic schemes",
-      "stars": 5524,
+      "stars": 5525,
       "lang": "C++",
       "topics": [
         "c-plus-plus",
@@ -1983,10 +2001,10 @@
       "full_name": "golang/crypto",
       "url": "https://github.com/golang/crypto",
       "desc": "[mirror] Go supplementary cryptography libraries",
-      "stars": 3356,
+      "stars": 3357,
       "lang": "Go",
       "topics": [],
-      "pushed": "2026-11-05",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Crypto"
     },
@@ -1994,14 +2012,14 @@
       "full_name": "Legrandin/pycryptodome",
       "url": "https://github.com/Legrandin/pycryptodome",
       "desc": "A self-contained cryptographic library for Python",
-      "stars": 3288,
+      "stars": 3295,
       "lang": "Python",
       "topics": [
         "cryptography",
         "python",
         "security"
       ],
-      "pushed": "2026-11-07",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Crypto"
     },
@@ -2009,7 +2027,7 @@
       "full_name": "open-quantum-safe/liboqs",
       "url": "https://github.com/open-quantum-safe/liboqs",
       "desc": "C library for prototyping and experimenting with quantum-resistant cryptography",
-      "stars": 3125,
+      "stars": 3127,
       "lang": "C",
       "topics": [
         "cryptography",
@@ -2017,7 +2035,7 @@
         "lattice-based-crypto",
         "post-quantum-cryptography"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Crypto"
     },
@@ -2025,7 +2043,7 @@
       "full_name": "bcgit/bc-csharp",
       "url": "https://github.com/bcgit/bc-csharp",
       "desc": "BouncyCastle.NET Cryptography Library (Mirror)",
-      "stars": 1933,
+      "stars": 1934,
       "lang": "C#",
       "topics": [
         "bouncycastle",
@@ -2043,7 +2061,7 @@
       "full_name": "paulmillr/noble-hashes",
       "url": "https://github.com/paulmillr/noble-hashes",
       "desc": "Audited & minimal JS implementation of hash functions, MACs and KDFs.",
-      "stars": 946,
+      "stars": 945,
       "lang": "TypeScript",
       "topics": [
         "argon2",
@@ -2053,7 +2071,7 @@
         "cryptography",
         "hash"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "Hashing"
     },
@@ -2096,7 +2114,7 @@
       "full_name": "Password4j/password4j",
       "url": "https://github.com/Password4j/password4j",
       "desc": "Java cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases. Easy to use by design, highly customizable, secure and portable. All the implementations follow the stan",
-      "stars": 439,
+      "stars": 441,
       "lang": "Java",
       "topics": [
         "argon2",
@@ -2125,7 +2143,7 @@
       "full_name": "lukechampine/blake3",
       "url": "https://github.com/lukechampine/blake3",
       "desc": "An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function",
-      "stars": 426,
+      "stars": 427,
       "lang": "Assembly",
       "topics": [
         "blake3",
@@ -2139,7 +2157,7 @@
       "full_name": "secworks/sha256",
       "url": "https://github.com/secworks/sha256",
       "desc": "Hardware implementation of the SHA-256 cryptographic hash function",
-      "stars": 395,
+      "stars": 396,
       "lang": "Verilog",
       "topics": [],
       "pushed": "2025-12-15",
@@ -2150,7 +2168,7 @@
       "full_name": "Jaskey/ConsistentHash",
       "url": "https://github.com/Jaskey/ConsistentHash",
       "desc": "A universal Consistent Hash implementation in Java, which supports virtual nodes and user defined hash function",
-      "stars": 355,
+      "stars": 356,
       "lang": "Java",
       "topics": [],
       "pushed": "2020-08-06",
@@ -2208,7 +2226,7 @@
       "full_name": "gonum/gonum",
       "url": "https://github.com/gonum/gonum",
       "desc": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",
-      "stars": 8455,
+      "stars": 8461,
       "lang": "Go",
       "topics": [
         "data-analysis",
@@ -2218,7 +2236,7 @@
         "matrix",
         "scientific-computing"
       ],
-      "pushed": "2026-10-25",
+      "pushed": "2026-11-10",
       "archived": false,
       "task": "Numerics"
     },
@@ -2226,7 +2244,7 @@
       "full_name": "MikeMcl/bignumber.js",
       "url": "https://github.com/MikeMcl/bignumber.js",
       "desc": "A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic ",
-      "stars": 7013,
+      "stars": 7015,
       "lang": "JavaScript",
       "topics": [
         "arbitrary-precision",
@@ -2243,7 +2261,7 @@
       "full_name": "stdlib-js/stdlib",
       "url": "https://github.com/stdlib-js/stdlib",
       "desc": "✨ The fundamental numerical library for JavaScript and TypeScript. ✨                    ⭐️ Star to support our work!",
-      "stars": 6017,
+      "stars": 6030,
       "lang": "JavaScript",
       "topics": [
         "javascript",
@@ -2253,7 +2271,7 @@
         "mathematics",
         "node"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Numerics"
     },
@@ -2290,7 +2308,7 @@
       "full_name": "MikeMcl/big.js",
       "url": "https://github.com/MikeMcl/big.js",
       "desc": "A small, fast JavaScript library for arbitrary-precision decimal arithmetic.",
-      "stars": 5204,
+      "stars": 5203,
       "lang": "JavaScript",
       "topics": [
         "arbitrary-precision",
@@ -2307,7 +2325,7 @@
       "full_name": "dimforge/nalgebra",
       "url": "https://github.com/dimforge/nalgebra",
       "desc": "Linear algebra library for Rust.",
-      "stars": 4811,
+      "stars": 4815,
       "lang": "Rust",
       "topics": [
         "algebra",
@@ -2323,7 +2341,7 @@
       "full_name": "dpilger26/NumCpp",
       "url": "https://github.com/dpilger26/NumCpp",
       "desc": "C++ implementation of the Python Numpy library",
-      "stars": 3970,
+      "stars": 3972,
       "lang": "C++",
       "topics": [
         "algorithms",
@@ -2341,7 +2359,7 @@
       "full_name": "scalanlp/breeze",
       "url": "https://github.com/scalanlp/breeze",
       "desc": "Breeze is/was a numerical processing library for Scala.",
-      "stars": 3457,
+      "stars": 3460,
       "lang": "Scala",
       "topics": [],
       "pushed": "2025-10-04",
@@ -2352,7 +2370,7 @@
       "full_name": "flame/blis",
       "url": "https://github.com/flame/blis",
       "desc": "BLAS-like Library Instantiation Software Framework",
-      "stars": 2702,
+      "stars": 2704,
       "lang": "C",
       "topics": [
         "blas",
@@ -2388,7 +2406,7 @@
       "full_name": "casadi/casadi",
       "url": "https://github.com/casadi/casadi",
       "desc": "CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and i",
-      "stars": 2332,
+      "stars": 2334,
       "lang": "C++",
       "topics": [
         "academic-project",
@@ -2398,7 +2416,7 @@
         "derivatives",
         "javascript"
       ],
-      "pushed": "2026-11-07",
+      "pushed": "2026-11-14",
       "archived": false,
       "task": "Numerics"
     },
@@ -2424,7 +2442,7 @@
       "full_name": "bitshifter/glam-rs",
       "url": "https://github.com/bitshifter/glam-rs",
       "desc": "A simple and fast linear algebra library for games and graphics",
-      "stars": 2098,
+      "stars": 2097,
       "lang": "Rust",
       "topics": [
         "3d-math-libraries",
@@ -2440,7 +2458,7 @@
       "full_name": "microsoft/DirectXMath",
       "url": "https://github.com/microsoft/DirectXMath",
       "desc": "DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps",
-      "stars": 1820,
+      "stars": 1821,
       "lang": "C++",
       "topics": [
         "arm-neon",
@@ -2450,7 +2468,7 @@
         "clang",
         "cpp-library"
       ],
-      "pushed": "2026-11-04",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "Linear algebra"
     },
@@ -2458,7 +2476,7 @@
       "full_name": "nschloe/awesome-scientific-computing",
       "url": "https://github.com/nschloe/awesome-scientific-computing",
       "desc": ":sunglasses: Curated list of awesome software for numerical analysis and scientific computing",
-      "stars": 1602,
+      "stars": 1604,
       "lang": "Python",
       "topics": [
         "awesome",
@@ -2476,7 +2494,7 @@
       "full_name": "NVIDIA/MatX",
       "url": "https://github.com/NVIDIA/MatX",
       "desc": "An efficient C++20 GPU numerical computing library with Python-like syntax",
-      "stars": 1451,
+      "stars": 1455,
       "lang": "C++",
       "topics": [
         "cuda",
@@ -2485,7 +2503,7 @@
         "gpu-computing",
         "hpc"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "Numerics"
     },
@@ -2493,7 +2511,7 @@
       "full_name": "mpmath/mpmath",
       "url": "https://github.com/mpmath/mpmath",
       "desc": "Python library for arbitrary-precision floating-point arithmetic",
-      "stars": 1236,
+      "stars": 1238,
       "lang": "Python",
       "topics": [
         "arbitrary-precision",
@@ -2503,7 +2521,7 @@
         "numerical-integration",
         "numerical-methods"
       ],
-      "pushed": "2026-11-04",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Big numbers"
     },
@@ -2529,7 +2547,7 @@
       "full_name": "PX4/eigen",
       "url": "https://github.com/PX4/eigen",
       "desc": "Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.",
-      "stars": 1181,
+      "stars": 1184,
       "lang": "C++",
       "topics": [],
       "pushed": "2023-10-18",
@@ -2540,7 +2558,7 @@
       "full_name": "symbolica-dev/symbolica",
       "url": "https://github.com/symbolica-dev/symbolica",
       "desc": "Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expressions, match patterns, and generate optimized numerical code — at unprecedented speed.",
-      "stars": 1007,
+      "stars": 1011,
       "lang": "Rust",
       "topics": [
         "arithmetic",
@@ -2550,7 +2568,7 @@
         "factorization",
         "greatest-common-divisor"
       ],
-      "pushed": "2026-11-05",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Compression"
     },
@@ -2558,7 +2576,7 @@
       "full_name": "ddemidov/amgcl",
       "url": "https://github.com/ddemidov/amgcl",
       "desc": "C++ library for solving large sparse linear systems with algebraic multigrid method",
-      "stars": 887,
+      "stars": 889,
       "lang": "C++",
       "topics": [
         "amg",
@@ -2568,7 +2586,7 @@
         "gpgpu",
         "linear-solvers"
       ],
-      "pushed": "2026-10-17",
+      "pushed": "2026-11-10",
       "archived": false,
       "task": "Linear algebra"
     },
@@ -2576,7 +2594,7 @@
       "full_name": "stan-dev/math",
       "url": "https://github.com/stan-dev/math",
       "desc": "The Stan Math Library is a C++ template library for automatic differentiation of any order using forward, reverse, and mixed modes.  It includes a range of built-in functions for probabilistic modeling, linear algebra, a",
-      "stars": 845,
+      "stars": 849,
       "lang": "C++",
       "topics": [
         "automatic-differentiation",
@@ -2586,9 +2604,20 @@
         "math",
         "stan"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "Linear algebra"
+    },
+    {
+      "full_name": "attaswift/BigInt",
+      "url": "https://github.com/attaswift/BigInt",
+      "desc": "Arbitrary-precision arithmetic in pure Swift",
+      "stars": 821,
+      "lang": "Swift",
+      "topics": [],
+      "pushed": "2026-10-25",
+      "archived": false,
+      "task": "Big numbers"
     }
   ],
   "geometry": [
@@ -2596,7 +2625,7 @@
       "full_name": "Turfjs/turf",
       "url": "https://github.com/Turfjs/turf",
       "desc": "A modular geospatial engine written in JavaScript and TypeScript",
-      "stars": 10537,
+      "stars": 10547,
       "lang": "TypeScript",
       "topics": [
         "algorithm",
@@ -2606,7 +2635,7 @@
         "gis",
         "javascript"
       ],
-      "pushed": "2026-11-04",
+      "pushed": "2026-11-11",
       "archived": false,
       "task": "Geometry"
     },
@@ -2614,7 +2643,7 @@
       "full_name": "CGAL/cgal",
       "url": "https://github.com/CGAL/cgal",
       "desc": "The public CGAL repository, see the README below",
-      "stars": 6120,
+      "stars": 6127,
       "lang": "C++",
       "topics": [
         "algorithms",
@@ -2624,7 +2653,7 @@
         "cgal",
         "computational-geometry"
       ],
-      "pushed": "2026-11-05",
+      "pushed": "2026-11-14",
       "archived": false,
       "task": "Geometry"
     },
@@ -2632,7 +2661,7 @@
       "full_name": "mourner/rbush",
       "url": "https://github.com/mourner/rbush",
       "desc": "RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles",
-      "stars": 2788,
+      "stars": 2790,
       "lang": "JavaScript",
       "topics": [
         "algorithm",
@@ -2667,7 +2696,7 @@
       "full_name": "mapbox/earcut",
       "url": "https://github.com/mapbox/earcut",
       "desc": "The fastest and smallest JavaScript polygon triangulation library for your WebGL apps",
-      "stars": 2625,
+      "stars": 2630,
       "lang": "JavaScript",
       "topics": [
         "algorithm",
@@ -2678,6 +2707,24 @@
         "tessellation"
       ],
       "pushed": "2026-10-23",
+      "archived": false,
+      "task": "Geometry"
+    },
+    {
+      "full_name": "nortikin/sverchok",
+      "url": "https://github.com/nortikin/sverchok",
+      "desc": "Sverchok is Node-based visual programming for parametric 3D modeling and computational geometry in Blender",
+      "stars": 2559,
+      "lang": "Python",
+      "topics": [
+        "architecture",
+        "blender",
+        "blender-addon",
+        "blender-python",
+        "blender3d",
+        "cad"
+      ],
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Geometry"
     },
@@ -2702,7 +2749,7 @@
       "full_name": "jasonwebb/morphogenesis-resources",
       "url": "https://github.com/jasonwebb/morphogenesis-resources",
       "desc": "Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.",
-      "stars": 2299,
+      "stars": 2303,
       "lang": null,
       "topics": [
         "computational-geometry",
@@ -2720,7 +2767,7 @@
       "full_name": "locationtech/jts",
       "url": "https://github.com/locationtech/jts",
       "desc": "The JTS Topology Suite is a Java library for creating and manipulating vector geometry.",
-      "stars": 2245,
+      "stars": 2247,
       "lang": "Java",
       "topics": [
         "computational-geometry",
@@ -2730,7 +2777,7 @@
         "geometry-library",
         "gis"
       ],
-      "pushed": "2026-10-29",
+      "pushed": "2026-11-14",
       "archived": false,
       "task": "Geometry"
     },
@@ -2738,7 +2785,7 @@
       "full_name": "esimov/triangle",
       "url": "https://github.com/esimov/triangle",
       "desc": "Convert images to computer generated art using delaunay triangulation.",
-      "stars": 2071,
+      "stars": 2070,
       "lang": "Go",
       "topics": [
         "delaunay",
@@ -2756,7 +2803,7 @@
       "full_name": "gradientspace/geometry3Sharp",
       "url": "https://github.com/gradientspace/geometry3Sharp",
       "desc": "C# library for 2D/3D geometric computation, mesh algorithms, and so on. Boost license.",
-      "stars": 1906,
+      "stars": 1907,
       "lang": "C#",
       "topics": [],
       "pushed": "2026-01-09",
@@ -2782,28 +2829,10 @@
       "task": "Geometry"
     },
     {
-      "full_name": "mourner/flatbush",
-      "url": "https://github.com/mourner/flatbush",
-      "desc": "A very fast static spatial index for 2D points and rectangles in JavaScript 🌱",
-      "stars": 1611,
-      "lang": "JavaScript",
-      "topics": [
-        "algorithm",
-        "computational-geometry",
-        "data-structures",
-        "javascript",
-        "r-tree",
-        "spatial-index"
-      ],
-      "pushed": "2026-11-06",
-      "archived": false,
-      "task": "Geometry"
-    },
-    {
       "full_name": "Habrador/Computational-geometry",
       "url": "https://github.com/Habrador/Computational-geometry",
       "desc": "Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc",
-      "stars": 1471,
+      "stars": 1473,
       "lang": "C#",
       "topics": [
         "bezier",
@@ -2821,7 +2850,7 @@
       "full_name": "artem-ogre/CDT",
       "url": "https://github.com/artem-ogre/CDT",
       "desc": "Constrained Delaunay Triangulation (C++)",
-      "stars": 1461,
+      "stars": 1469,
       "lang": "C++",
       "topics": [
         "c-plus-plus",
@@ -2868,7 +2897,7 @@
       "full_name": "rabbit-ear/rabbit-ear",
       "url": "https://github.com/rabbit-ear/rabbit-ear",
       "desc": "computational origami library",
-      "stars": 655,
+      "stars": 656,
       "lang": "JavaScript",
       "topics": [
         "art",
@@ -2878,7 +2907,7 @@
         "math",
         "origami"
       ],
-      "pushed": "2026-10-21",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Geometry"
     },
@@ -2886,7 +2915,7 @@
       "full_name": "mfogel/polygon-clipping",
       "url": "https://github.com/mfogel/polygon-clipping",
       "desc": "Apply boolean polygon clipping operations (union, intersection, difference, xor) to your Polygons & MultiPolygons.",
-      "stars": 642,
+      "stars": 644,
       "lang": "JavaScript",
       "topics": [
         "boolean-operations",
@@ -2904,7 +2933,7 @@
       "full_name": "delfrrr/delaunator-cpp",
       "url": "https://github.com/delfrrr/delaunator-cpp",
       "desc": "A really fast C++ library for Delaunay triangulation of 2D points",
-      "stars": 604,
+      "stars": 605,
       "lang": "C++",
       "topics": [
         "2d",
@@ -2933,7 +2962,7 @@
       "full_name": "jhasse/poly2tri",
       "url": "https://github.com/jhasse/poly2tri",
       "desc": "2D constrained Delaunay triangulation library",
-      "stars": 527,
+      "stars": 526,
       "lang": "C++",
       "topics": [
         "delaunay",
@@ -2966,10 +2995,10 @@
       "full_name": "NVIDIA-BioNeMo/nvMolKit",
       "url": "https://github.com/NVIDIA-BioNeMo/nvMolKit",
       "desc": "A high-performance, GPU-accelerated library for key computational chemistry tasks, such as molecular similarity, conformer generation, and geometry relaxation.",
-      "stars": 282,
+      "stars": 284,
       "lang": "Cuda",
       "topics": [],
-      "pushed": "2026-11-06",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "Geometry"
     },
@@ -3080,7 +3109,7 @@
       "full_name": "eriklindernoren/ML-From-Scratch",
       "url": "https://github.com/eriklindernoren/ML-From-Scratch",
       "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
-      "stars": 33306,
+      "stars": 33371,
       "lang": "Python",
       "topics": [
         "data-mining",
@@ -3098,7 +3127,7 @@
       "full_name": "dmlc/xgboost",
       "url": "https://github.com/dmlc/xgboost",
       "desc": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
-      "stars": 28958,
+      "stars": 28978,
       "lang": "C++",
       "topics": [
         "distributed-systems",
@@ -3108,7 +3137,7 @@
         "machine-learning",
         "xgboost"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Ensembles"
     },
@@ -3116,7 +3145,7 @@
       "full_name": "dennybritz/reinforcement-learning",
       "url": "https://github.com/dennybritz/reinforcement-learning",
       "desc": "Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
-      "stars": 22173,
+      "stars": 22184,
       "lang": "Jupyter Notebook",
       "topics": [],
       "pushed": "2023-07-13",
@@ -3127,7 +3156,7 @@
       "full_name": "openai/baselines",
       "url": "https://github.com/openai/baselines",
       "desc": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
-      "stars": 16778,
+      "stars": 16782,
       "lang": "Python",
       "topics": [],
       "pushed": "2024-08-01",
@@ -3138,7 +3167,7 @@
       "full_name": "DLR-RM/stable-baselines3",
       "url": "https://github.com/DLR-RM/stable-baselines3",
       "desc": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
-      "stars": 13997,
+      "stars": 14016,
       "lang": "Python",
       "topics": [
         "baselines",
@@ -3156,7 +3185,7 @@
       "full_name": "vwxyzjn/cleanrl",
       "url": "https://github.com/vwxyzjn/cleanrl",
       "desc": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
-      "stars": 10659,
+      "stars": 10692,
       "lang": "Python",
       "topics": [
         "a2c",
@@ -3174,7 +3203,7 @@
       "full_name": "catboost/catboost",
       "url": "https://github.com/catboost/catboost",
       "desc": "A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",
-      "stars": 9199,
+      "stars": 9205,
       "lang": "C++",
       "topics": [
         "big-data",
@@ -3184,7 +3213,7 @@
         "cuda",
         "data-mining"
       ],
-      "pushed": "2026-11-07",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Ensembles"
     },
@@ -3237,7 +3266,7 @@
       "full_name": "aadi1011/AI-ML-Roadmap-from-scratch",
       "url": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
       "desc": "Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.",
-      "stars": 4315,
+      "stars": 4321,
       "lang": null,
       "topics": [
         "ai",
@@ -3255,7 +3284,7 @@
       "full_name": "XinJingHao/DRL-Pytorch",
       "url": "https://github.com/XinJingHao/DRL-Pytorch",
       "desc": "Clean, Robust, and Unified PyTorch implementation of popular Deep Reinforcement Learning (DRL) algorithms (Q-learning, Duel DDQN, PER, C51, Noisy DQN, PPO, DDPG, TD3, SAC, ASL)",
-      "stars": 3463,
+      "stars": 3464,
       "lang": "Python",
       "topics": [
         "asl",
@@ -3273,12 +3302,12 @@
       "full_name": "DorsaRoh/Machine-Learning",
       "url": "https://github.com/DorsaRoh/Machine-Learning",
       "desc": "ML from scratch",
-      "stars": 2447,
+      "stars": 2446,
       "lang": "Jupyter Notebook",
       "topics": [
         "machine-learning"
       ],
-      "pushed": "2025-08-12",
+      "pushed": "2026-11-10",
       "archived": false,
       "task": "ML from scratch"
     },
@@ -3286,7 +3315,7 @@
       "full_name": "dennybritz/nn-from-scratch",
       "url": "https://github.com/dennybritz/nn-from-scratch",
       "desc": "Implementing a Neural Network from Scratch",
-      "stars": 2335,
+      "stars": 2336,
       "lang": "Jupyter Notebook",
       "topics": [],
       "pushed": "2023-08-14",
@@ -3297,7 +3326,7 @@
       "full_name": "Tanu-N-Prabhu/Python",
       "url": "https://github.com/Tanu-N-Prabhu/Python",
       "desc": "This repository helps you learn Python and Machine Learning from scratch.",
-      "stars": 2323,
+      "stars": 2326,
       "lang": "Jupyter Notebook",
       "topics": [
         "data",
@@ -3307,7 +3336,7 @@
         "datascraping",
         "google-colab"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "ML from scratch"
     },
@@ -3315,7 +3344,7 @@
       "full_name": "neonwatty/machine-learning-refined",
       "url": "https://github.com/neonwatty/machine-learning-refined",
       "desc": "Master the fundamentals of machine learning, deep learning, and mathematical optimization by building key concepts and models from scratch using Python.",
-      "stars": 2310,
+      "stars": 2314,
       "lang": "Python",
       "topics": [
         "artificial-intelligence",
@@ -3333,7 +3362,7 @@
       "full_name": "patrickloeber/MLfromscratch",
       "url": "https://github.com/patrickloeber/MLfromscratch",
       "desc": "Machine Learning algorithm implementations from scratch.",
-      "stars": 1688,
+      "stars": 1689,
       "lang": "Python",
       "topics": [],
       "pushed": "2024-02-01",
@@ -3344,7 +3373,7 @@
       "full_name": "Sentdex/NNfSiX",
       "url": "https://github.com/Sentdex/NNfSiX",
       "desc": "Neural Networks from Scratch in various programming languages",
-      "stars": 1610,
+      "stars": 1609,
       "lang": "C++",
       "topics": [],
       "pushed": "2023-09-24",
@@ -3355,7 +3384,7 @@
       "full_name": "igrigorik/decisiontree",
       "url": "https://github.com/igrigorik/decisiontree",
       "desc": "ID3-based implementation of the ML Decision Tree algorithm",
-      "stars": 1502,
+      "stars": 1503,
       "lang": "Ruby",
       "topics": [
         "decision-tree",
@@ -3433,7 +3462,7 @@
       "full_name": "TheAlgorithms/R",
       "url": "https://github.com/TheAlgorithms/R",
       "desc": "Collection of various algorithms implemented in R.",
-      "stars": 1221,
+      "stars": 1224,
       "lang": "R",
       "topics": [
         "algorithm",
@@ -3483,7 +3512,7 @@
       "full_name": "AssemblyAI-Community/Machine-Learning-From-Scratch",
       "url": "https://github.com/AssemblyAI-Community/Machine-Learning-From-Scratch",
       "desc": "Implementation of popular ML algorithms from scratch",
-      "stars": 991,
+      "stars": 992,
       "lang": "Python",
       "topics": [],
       "pushed": "2024-01-09",
@@ -3512,7 +3541,7 @@
       "full_name": "google/yggdrasil-decision-forests",
       "url": "https://github.com/google/yggdrasil-decision-forests",
       "desc": "A library to train, evaluate, interpret, and productionize decision forest models such as Random Forest and Gradient Boosted Decision Trees. ",
-      "stars": 678,
+      "stars": 680,
       "lang": "C++",
       "topics": [
         "cart",
@@ -3522,7 +3551,7 @@
         "decision-trees",
         "distributed-computing"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Ensembles"
     },
@@ -3530,7 +3559,7 @@
       "full_name": "ahmedfgad/NumPyCNN",
       "url": "https://github.com/ahmedfgad/NumPyCNN",
       "desc": "Building Convolutional Neural Networks From Scratch using NumPy",
-      "stars": 599,
+      "stars": 600,
       "lang": "Python",
       "topics": [
         "cnn",
@@ -3550,7 +3579,7 @@
       "full_name": "guofei9987/scikit-opt",
       "url": "https://github.com/guofei9987/scikit-opt",
       "desc": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman) ",
-      "stars": 6723,
+      "stars": 6729,
       "lang": "Python",
       "topics": [
         "ant-colony-algorithm",
@@ -3586,7 +3615,7 @@
       "full_name": "coin-or/pulp",
       "url": "https://github.com/coin-or/pulp",
       "desc": "A python Linear Programming API",
-      "stars": 2496,
+      "stars": 2499,
       "lang": "Python",
       "topics": [
         "constraints",
@@ -3595,7 +3624,7 @@
         "python",
         "solver"
       ],
-      "pushed": "2026-11-03",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "OR"
     },
@@ -3603,7 +3632,7 @@
       "full_name": "ahmedfgad/GeneticAlgorithmPython",
       "url": "https://github.com/ahmedfgad/GeneticAlgorithmPython",
       "desc": "Source code of PyGAD, a Python 3 library for building the genetic algorithm and training machine learning algorithms (Keras & PyTorch).",
-      "stars": 2235,
+      "stars": 2237,
       "lang": "Python",
       "topics": [
         "deep-learning",
@@ -3621,7 +3650,7 @@
       "full_name": "ljvmiranda921/pyswarms",
       "url": "https://github.com/ljvmiranda921/pyswarms",
       "desc": "A research toolkit for particle swarm optimization in Python ",
-      "stars": 1400,
+      "stars": 1401,
       "lang": "Python",
       "topics": [
         "algorithm",
@@ -3639,7 +3668,7 @@
       "full_name": "giacomelli/GeneticSharp",
       "url": "https://github.com/giacomelli/GeneticSharp",
       "desc": "GeneticSharp is a fast, extensible, multi-platform and multithreading C# Genetic Algorithm library that simplifies the development of applications using Genetic Algorithms (GAs).",
-      "stars": 1376,
+      "stars": 1377,
       "lang": "C#",
       "topics": [
         "artificial-intelligence",
@@ -3657,7 +3686,7 @@
       "full_name": "thieu1995/mealpy",
       "url": "https://github.com/thieu1995/mealpy",
       "desc": "A Collection Of The State-of-the-art Metaheuristic Algorithms In Python (Metaheuristic/Optimizer/Nature-inspired/Biology)",
-      "stars": 1293,
+      "stars": 1295,
       "lang": "Python",
       "topics": [
         "arithmetic-optimization-algorithm",
@@ -3675,7 +3704,7 @@
       "full_name": "AngoraFuzzer/Angora",
       "url": "https://github.com/AngoraFuzzer/Angora",
       "desc": "Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution. ",
-      "stars": 957,
+      "stars": 958,
       "lang": "C++",
       "topics": [
         "afl",
@@ -3693,7 +3722,7 @@
       "full_name": "esa/pagmo2",
       "url": "https://github.com/esa/pagmo2",
       "desc": "A C++ platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model.",
-      "stars": 939,
+      "stars": 941,
       "lang": "C++",
       "topics": [
         "artificial-intelligence",
@@ -3703,7 +3732,7 @@
         "metaheuristics",
         "multi-objective-optimization"
       ],
-      "pushed": "2026-09-29",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "Metaheuristics"
     },
@@ -3711,7 +3740,7 @@
       "full_name": "jenetics/jenetics",
       "url": "https://github.com/jenetics/jenetics",
       "desc": "Jenetics - Genetic Algorithm, Genetic Programming, Grammatical Evolution, Evolutionary Algorithm, and Multi-objective Optimization",
-      "stars": 910,
+      "stars": 911,
       "lang": "Java",
       "topics": [
         "artificial-intelligence",
@@ -3747,7 +3776,7 @@
       "full_name": "nucleic/kiwi",
       "url": "https://github.com/nucleic/kiwi",
       "desc": "Efficient C++ implementation of the Cassowary constraint solving algorithm",
-      "stars": 785,
+      "stars": 786,
       "lang": "C++",
       "topics": [],
       "pushed": "2026-10-30",
@@ -3758,7 +3787,7 @@
       "full_name": "chocoteam/choco-solver",
       "url": "https://github.com/chocoteam/choco-solver",
       "desc": "An open-source Java library for Constraint Programming",
-      "stars": 782,
+      "stars": 783,
       "lang": "Java",
       "topics": [
         "constraint-optimisation-problem",
@@ -3768,7 +3797,7 @@
         "constraints",
         "copr"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "CSP"
     },
@@ -3787,7 +3816,7 @@
       "full_name": "scipopt/scip",
       "url": "https://github.com/scipopt/scip",
       "desc": "SCIP - Solving Constraint Integer Programs",
-      "stars": 676,
+      "stars": 678,
       "lang": "C",
       "topics": [
         "constraint-programming",
@@ -3797,7 +3826,7 @@
         "mip",
         "mip-solver"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "CSP"
     },
@@ -3805,7 +3834,7 @@
       "full_name": "Project-Platypus/Platypus",
       "url": "https://github.com/Project-Platypus/Platypus",
       "desc": "A Free and Open Source Python Library for Multiobjective Optimization",
-      "stars": 654,
+      "stars": 655,
       "lang": "Python",
       "topics": [
         "algorithm",
@@ -3823,7 +3852,7 @@
       "full_name": "subprotocol/genetic-js",
       "url": "https://github.com/subprotocol/genetic-js",
       "desc": "Advanced genetic and evolutionary algorithm library written in Javascript",
-      "stars": 618,
+      "stars": 619,
       "lang": "JavaScript",
       "topics": [],
       "pushed": "2022-02-04",
@@ -3852,7 +3881,7 @@
       "full_name": "100/Solid",
       "url": "https://github.com/100/Solid",
       "desc": "🎯 A comprehensive gradient-free optimization framework written in Python",
-      "stars": 583,
+      "stars": 584,
       "lang": "Python",
       "topics": [
         "algorithm",
@@ -3878,7 +3907,7 @@
         "multiobjective-optimization",
         "software-framework"
       ],
-      "pushed": "2026-11-05",
+      "pushed": "2026-11-14",
       "archived": false,
       "task": "Metaheuristics"
     },
@@ -3886,7 +3915,7 @@
       "full_name": "python-constraint/python-constraint",
       "url": "https://github.com/python-constraint/python-constraint",
       "desc": "Constraint Solving Problem resolver for Python",
-      "stars": 521,
+      "stars": 522,
       "lang": "Python",
       "topics": [
         "constraint-satisfaction-problem",
@@ -3900,7 +3929,7 @@
       "full_name": "7ossam81/EvoloPy",
       "url": "https://github.com/7ossam81/EvoloPy",
       "desc": "EvoloPy toolbox provides classical and recent nature-inspired metaheuristic for the global optimization.",
-      "stars": 512,
+      "stars": 514,
       "lang": "Python",
       "topics": [
         "evolutionary-algorithms",
@@ -3956,7 +3985,7 @@
       "stars": 499,
       "lang": "C++",
       "topics": [],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "OR"
     },
@@ -3964,7 +3993,7 @@
       "full_name": "rust-or/good_lp",
       "url": "https://github.com/rust-or/good_lp",
       "desc": "Linear Programming for Rust, with a user-friendly API. This crate allows modeling LP problems, and lets you solve them with various solvers.",
-      "stars": 467,
+      "stars": 470,
       "lang": "Rust",
       "topics": [
         "cbc",
@@ -4000,7 +4029,7 @@
       "full_name": "JWally/jsLPSolver",
       "url": "https://github.com/JWally/jsLPSolver",
       "desc": "Simple OOP javaScript library to solve linear programs, and mixed integer linear programs",
-      "stars": 464,
+      "stars": 466,
       "lang": "TypeScript",
       "topics": [
         "constraint-optimization",
@@ -4016,7 +4045,7 @@
       "full_name": "dmishin/tsp-solver",
       "url": "https://github.com/dmishin/tsp-solver",
       "desc": "Travelling Salesman Problem solver in pure Python + some visualizers",
-      "stars": 337,
+      "stars": 338,
       "lang": "Python",
       "topics": [],
       "pushed": "2025-03-26",
@@ -4027,7 +4056,7 @@
       "full_name": "EMI-Group/evorl",
       "url": "https://github.com/EMI-Group/evorl",
       "desc": "EvoRL is a fully GPU-accelerated framework for Evolutionary Reinforcement Learning, implemented with JAX. It supports Reinforcement Learning (RL), Evolutionary Computation (EC), Evolution-guided Reinforcement Learning (E",
-      "stars": 337,
+      "stars": 338,
       "lang": "Python",
       "topics": [
         "automl",
@@ -4037,7 +4066,7 @@
         "jax",
         "policy-gradient"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "Evolutionary"
     }
@@ -4047,7 +4076,7 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "desc": "Open Source Computer Vision Library",
-      "stars": 91493,
+      "stars": 91596,
       "lang": "C++",
       "topics": [
         "c-plus-plus",
@@ -4056,7 +4085,7 @@
         "image-processing",
         "opencv"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Image processing"
     },
@@ -4064,7 +4093,7 @@
       "full_name": "lovell/sharp",
       "url": "https://github.com/lovell/sharp",
       "desc": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
-      "stars": 32832,
+      "stars": 32856,
       "lang": "JavaScript",
       "topics": [
         "avif",
@@ -4074,7 +4103,7 @@
         "image",
         "image-processing"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Image processing"
     },
@@ -4082,7 +4111,7 @@
       "full_name": "ImageMagick/ImageMagick",
       "url": "https://github.com/ImageMagick/ImageMagick",
       "desc": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integrat",
-      "stars": 17827,
+      "stars": 17859,
       "lang": "C",
       "topics": [
         "command-line-image-tool",
@@ -4092,7 +4121,7 @@
         "image-processing",
         "imagemagick"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Image processing"
     },
@@ -4111,7 +4140,7 @@
       "full_name": "libvips/libvips",
       "url": "https://github.com/libvips/libvips",
       "desc": "A fast image processing library with low memory needs.",
-      "stars": 11794,
+      "stars": 11812,
       "lang": "C",
       "topics": [
         "c",
@@ -4121,7 +4150,7 @@
         "hdr",
         "heic"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Image processing"
     },
@@ -4129,7 +4158,7 @@
       "full_name": "open-edge-platform/anomalib",
       "url": "https://github.com/open-edge-platform/anomalib",
       "desc": "An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.",
-      "stars": 6380,
+      "stars": 6401,
       "lang": "Python",
       "topics": [
         "anomaly-detection",
@@ -4139,7 +4168,7 @@
         "neural-network-compression",
         "openvino"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Vision"
     },
@@ -4147,7 +4176,7 @@
       "full_name": "silvia-odwyer/photon",
       "url": "https://github.com/silvia-odwyer/photon",
       "desc": "⚡ Rust/WebAssembly image processing library",
-      "stars": 3914,
+      "stars": 3916,
       "lang": "Rust",
       "topics": [
         "hacktoberfest",
@@ -4165,7 +4194,7 @@
       "full_name": "zxing-js/library",
       "url": "https://github.com/zxing-js/library",
       "desc": "Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.",
-      "stars": 2945,
+      "stars": 2948,
       "lang": "TypeScript",
       "topics": [
         "barcode",
@@ -4183,7 +4212,7 @@
       "full_name": "CVCUDA/CV-CUDA",
       "url": "https://github.com/CVCUDA/CV-CUDA",
       "desc": "CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.",
-      "stars": 2733,
+      "stars": 2737,
       "lang": "C++",
       "topics": [
         "bytedance",
@@ -4201,7 +4230,7 @@
       "full_name": "emgucv/emgucv",
       "url": "https://github.com/emgucv/emgucv",
       "desc": "Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.",
-      "stars": 2300,
+      "stars": 2302,
       "lang": "C#",
       "topics": [
         "ai",
@@ -4211,7 +4240,7 @@
         "emgucv",
         "image-classification"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Image processing"
     },
@@ -4219,7 +4248,7 @@
       "full_name": "CihanTopal/ED_Lib",
       "url": "https://github.com/CihanTopal/ED_Lib",
       "desc": "Implementations of edge (ED, EDColor, EDPF), line (EDLines), circle and low eccentric ellipse (EDCircles) detection algorithms.",
-      "stars": 492,
+      "stars": 493,
       "lang": "C++",
       "topics": [
         "circle-detection-algorithm",
@@ -4230,6 +4259,17 @@
         "edge-segments"
       ],
       "pushed": "2025-11-07",
+      "archived": false,
+      "task": "Vision"
+    },
+    {
+      "full_name": "molyswu/hand_detection",
+      "url": "https://github.com/molyswu/hand_detection",
+      "desc": "using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive (and riskiest) part ",
+      "stars": 288,
+      "lang": "Python",
+      "topics": [],
+      "pushed": "2022-01-11",
       "archived": false,
       "task": "Vision"
     },
@@ -4261,21 +4301,6 @@
       "pushed": "2018-10-15",
       "archived": false,
       "task": "Vision"
-    },
-    {
-      "full_name": "petarjs/js-canny-edge-detector",
-      "url": "https://github.com/petarjs/js-canny-edge-detector",
-      "desc": "Example of Canny edge detection algorithm in javascript",
-      "stars": 62,
-      "lang": "TypeScript",
-      "topics": [
-        "edge-detection",
-        "hacktoberfest",
-        "javascript"
-      ],
-      "pushed": "2020-02-04",
-      "archived": false,
-      "task": "Vision"
     }
   ],
   "audio-dsp": [
@@ -4283,7 +4308,7 @@
       "full_name": "librosa/librosa",
       "url": "https://github.com/librosa/librosa",
       "desc": "Python library for audio and music analysis",
-      "stars": 8812,
+      "stars": 8981,
       "lang": "Python",
       "topics": [
         "audio",
@@ -4293,7 +4318,7 @@
         "python",
         "scipy"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "DSP"
     },
@@ -4301,7 +4326,7 @@
       "full_name": "gnuradio/gnuradio",
       "url": "https://github.com/gnuradio/gnuradio",
       "desc": "GNU Radio – the Free and Open Software Radio Ecosystem",
-      "stars": 6336,
+      "stars": 6346,
       "lang": "C++",
       "topics": [
         "c-plus-plus",
@@ -4311,7 +4336,7 @@
         "gnu",
         "gnuradio"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "DSP"
     },
@@ -4319,7 +4344,7 @@
       "full_name": "cgzirim/seek-tune",
       "url": "https://github.com/cgzirim/seek-tune",
       "desc": "An implementation of Shazam's song recognition algorithm.",
-      "stars": 5608,
+      "stars": 5605,
       "lang": "Go",
       "topics": [
         "audio-fingerprinting",
@@ -4337,7 +4362,7 @@
       "full_name": "AllenDowney/ThinkDSP",
       "url": "https://github.com/AllenDowney/ThinkDSP",
       "desc": "Think DSP: Digital Signal Processing in Python, by Allen B. Downey.",
-      "stars": 4688,
+      "stars": 4691,
       "lang": "Jupyter Notebook",
       "topics": [
         "dsp",
@@ -4353,7 +4378,7 @@
       "full_name": "MTG/essentia",
       "url": "https://github.com/MTG/essentia",
       "desc": "C++ library for audio and music analysis, description and synthesis, including Python bindings",
-      "stars": 3800,
+      "stars": 3805,
       "lang": "C++",
       "topics": [
         "audio",
@@ -4371,7 +4396,7 @@
       "full_name": "grame-cncm/faust",
       "url": "https://github.com/grame-cncm/faust",
       "desc": "Functional programming language for signal processing and sound synthesis",
-      "stars": 3203,
+      "stars": 3211,
       "lang": "C++",
       "topics": [
         "audio",
@@ -4381,7 +4406,7 @@
         "compiler",
         "cpp"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "DSP"
     },
@@ -4389,7 +4414,7 @@
       "full_name": "olilarkin/awesome-musicdsp",
       "url": "https://github.com/olilarkin/awesome-musicdsp",
       "desc": "A curated list of my favourite music DSP and audio programming resources",
-      "stars": 3052,
+      "stars": 3056,
       "lang": null,
       "topics": [
         "audio",
@@ -4407,7 +4432,7 @@
       "full_name": "chaosprint/glicol",
       "url": "https://github.com/chaosprint/glicol",
       "desc": "Graph-oriented live coding language and music/audio DSP library written in Rust",
-      "stars": 3017,
+      "stars": 3021,
       "lang": "Rust",
       "topics": [
         "audio",
@@ -4425,7 +4450,7 @@
       "full_name": "pschatzmann/arduino-audio-tools",
       "url": "https://github.com/pschatzmann/arduino-audio-tools",
       "desc": "Audio Tools (a powerful Audio library for Microcontrollers and the Desktop)",
-      "stars": 2417,
+      "stars": 2422,
       "lang": "C",
       "topics": [
         "arduino",
@@ -4435,7 +4460,7 @@
         "codecs",
         "commucation"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-09",
       "archived": false,
       "task": "DSP"
     },
@@ -4443,7 +4468,7 @@
       "full_name": "jgaeddert/liquid-dsp",
       "url": "https://github.com/jgaeddert/liquid-dsp",
       "desc": "digital signal processing library for software-defined radios",
-      "stars": 2329,
+      "stars": 2331,
       "lang": "C",
       "topics": [],
       "pushed": "2026-10-04",
@@ -4454,7 +4479,7 @@
       "full_name": "iver56/audiomentations",
       "url": "https://github.com/iver56/audiomentations",
       "desc": "A Python library for audio data augmentation. Useful for making audio ML models work well in the real world, not just in the lab.",
-      "stars": 2327,
+      "stars": 2329,
       "lang": "Python",
       "topics": [
         "audio",
@@ -4472,10 +4497,10 @@
       "full_name": "mborgerding/kissfft",
       "url": "https://github.com/mborgerding/kissfft",
       "desc": "a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid",
-      "stars": 2008,
+      "stars": 2011,
       "lang": "C",
       "topics": [],
-      "pushed": "2026-10-26",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "DSP"
     },
@@ -4483,7 +4508,7 @@
       "full_name": "DTolm/VkFFT",
       "url": "https://github.com/DTolm/VkFFT",
       "desc": "Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library",
-      "stars": 1785,
+      "stars": 1789,
       "lang": "C++",
       "topics": [
         "c2r",
@@ -4501,7 +4526,7 @@
       "full_name": "CPJKU/madmom",
       "url": "https://github.com/CPJKU/madmom",
       "desc": "Python audio and music signal processing library",
-      "stars": 1737,
+      "stars": 1742,
       "lang": "Python",
       "topics": [
         "audio-analysis",
@@ -4519,7 +4544,7 @@
       "full_name": "micknoise/Maximilian",
       "url": "https://github.com/micknoise/Maximilian",
       "desc": "C++ Audio and Music DSP Library",
-      "stars": 1707,
+      "stars": 1709,
       "lang": "C++",
       "topics": [],
       "pushed": "2025-01-04",
@@ -4545,7 +4570,7 @@
       "full_name": "cycfi/q",
       "url": "https://github.com/cycfi/q",
       "desc": "C++ Library for Audio Digital Signal Processing",
-      "stars": 1449,
+      "stars": 1458,
       "lang": "C++",
       "topics": [
         "audio",
@@ -4555,7 +4580,7 @@
         "cpp-library",
         "cpp20"
       ],
-      "pushed": "2026-11-07",
+      "pushed": "2026-11-09",
       "archived": false,
       "task": "Audio"
     },
@@ -4563,7 +4588,7 @@
       "full_name": "ARM-software/CMSIS-DSP",
       "url": "https://github.com/ARM-software/CMSIS-DSP",
       "desc": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
-      "stars": 1131,
+      "stars": 1137,
       "lang": "C",
       "topics": [
         "ai",
@@ -4581,7 +4606,7 @@
       "full_name": "fraunhoferportugal/tsfel",
       "url": "https://github.com/fraunhoferportugal/tsfel",
       "desc": "Time Series Feature Extraction Library (TSFEL): 60+ statistical, temporal, spectral and fractal features for time series classification, regression and signal processing in Python",
-      "stars": 1113,
+      "stars": 1116,
       "lang": "Python",
       "topics": [
         "audio",
@@ -4591,7 +4616,7 @@
         "emg",
         "explainable-ai"
       ],
-      "pushed": "2026-10-22",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Audio"
     },
@@ -4599,10 +4624,10 @@
       "full_name": "ejmahler/RustFFT",
       "url": "https://github.com/ejmahler/RustFFT",
       "desc": "RustFFT is a high-performance FFT library written in pure Rust.",
-      "stars": 963,
+      "stars": 966,
       "lang": "Rust",
       "topics": [],
-      "pushed": "2026-11-07",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "DSP"
     },
@@ -4610,7 +4635,7 @@
       "full_name": "shibatch/sleef",
       "url": "https://github.com/shibatch/sleef",
       "desc": "SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT",
-      "stars": 868,
+      "stars": 870,
       "lang": "C",
       "topics": [
         "aarch64",
@@ -4657,7 +4682,7 @@
       "full_name": "elemaudio/elementary",
       "url": "https://github.com/elemaudio/elementary",
       "desc": "Elementary is a JavaScript library for digital audio signal processing.",
-      "stars": 520,
+      "stars": 522,
       "lang": "C",
       "topics": [
         "audio",
@@ -4673,7 +4698,7 @@
       "full_name": "wendykierp/JTransforms",
       "url": "https://github.com/wendykierp/JTransforms",
       "desc": "JTransforms is the first, open source, multithreaded FFT library written in pure Java.",
-      "stars": 430,
+      "stars": 431,
       "lang": "Java",
       "topics": [],
       "pushed": "2025-12-05",
@@ -4686,7 +4711,7 @@
       "full_name": "etcd-io/etcd",
       "url": "https://github.com/etcd-io/etcd",
       "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "stars": 52678,
+      "stars": 52616,
       "lang": "Go",
       "topics": [
         "cncf",
@@ -4696,7 +4721,7 @@
         "distributed-systems",
         "etcd"
       ],
-      "pushed": "2026-11-06",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Consensus"
     },
@@ -4704,7 +4729,7 @@
       "full_name": "rqlite/rqlite",
       "url": "https://github.com/rqlite/rqlite",
       "desc": "The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.",
-      "stars": 17937,
+      "stars": 17953,
       "lang": "Go",
       "topics": [
         "consensus",
@@ -4714,7 +4739,7 @@
         "fault-tolerance",
         "go"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Consensus"
     },
@@ -4722,7 +4747,7 @@
       "full_name": "tikv/tikv",
       "url": "https://github.com/tikv/tikv",
       "desc": "Distributed transactional key-value database, originally created to complement TiDB",
-      "stars": 16940,
+      "stars": 16954,
       "lang": "Rust",
       "topics": [
         "cncf",
@@ -4732,7 +4757,7 @@
         "key-value",
         "raft"
       ],
-      "pushed": "2026-11-06",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Consensus"
     },
@@ -4740,7 +4765,7 @@
       "full_name": "hyperledger/fabric",
       "url": "https://github.com/hyperledger/fabric",
       "desc": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a u",
-      "stars": 16765,
+      "stars": 16773,
       "lang": "Go",
       "topics": [
         "blockchain",
@@ -4750,7 +4775,7 @@
         "fabric",
         "hyperledger"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-10",
       "archived": false,
       "task": "Consensus"
     },
@@ -4758,7 +4783,7 @@
       "full_name": "apache/zookeeper",
       "url": "https://github.com/apache/zookeeper",
       "desc": "Apache ZooKeeper",
-      "stars": 12830,
+      "stars": 12831,
       "lang": "Java",
       "topics": [
         "apache",
@@ -4768,7 +4793,7 @@
         "database",
         "distributed-configuration"
       ],
-      "pushed": "2026-11-06",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Consensus"
     },
@@ -4776,7 +4801,7 @@
       "full_name": "theanalyst/awesome-distributed-systems",
       "url": "https://github.com/theanalyst/awesome-distributed-systems",
       "desc": "A curated list to learn about distributed systems",
-      "stars": 12430,
+      "stars": 12442,
       "lang": null,
       "topics": [
         "architecture",
@@ -4794,7 +4819,7 @@
       "full_name": "hashicorp/raft",
       "url": "https://github.com/hashicorp/raft",
       "desc": "Golang implementation of the Raft consensus protocol",
-      "stars": 9163,
+      "stars": 9170,
       "lang": "Go",
       "topics": [],
       "pushed": "2026-10-18",
@@ -4805,7 +4830,7 @@
       "full_name": "oldratlee/translations",
       "url": "https://github.com/oldratlee/translations",
       "desc": "🐼  Chinese translations for classic software development resources",
-      "stars": 6909,
+      "stars": 6912,
       "lang": null,
       "topics": [
         "api",
@@ -4833,7 +4858,7 @@
         "cryptocurrency",
         "cryptography"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Consensus"
     },
@@ -4841,7 +4866,7 @@
       "full_name": "cjdelisle/cjdns",
       "url": "https://github.com/cjdelisle/cjdns",
       "desc": "An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.",
-      "stars": 5422,
+      "stars": 5423,
       "lang": "C",
       "topics": [
         "cjdns",
@@ -4859,7 +4884,7 @@
       "full_name": "lni/dragonboat",
       "url": "https://github.com/lni/dragonboat",
       "desc": "A feature complete and high performance multi-group Raft library in Go.  ",
-      "stars": 5330,
+      "stars": 5329,
       "lang": "Go",
       "topics": [
         "consensus",
@@ -4877,7 +4902,7 @@
       "full_name": "baidu/braft",
       "url": "https://github.com/baidu/braft",
       "desc": "An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.",
-      "stars": 4238,
+      "stars": 4240,
       "lang": "C++",
       "topics": [
         "distributed-consensus",
@@ -4895,7 +4920,7 @@
       "full_name": "sofastack/sofa-jraft",
       "url": "https://github.com/sofastack/sofa-jraft",
       "desc": "A production-grade java implementation of RAFT consensus algorithm.",
-      "stars": 3819,
+      "stars": 3821,
       "lang": "Java",
       "topics": [
         "consensus",
@@ -4905,7 +4930,7 @@
         "raft-algorithm",
         "raft-java"
       ],
-      "pushed": "2026-06-16",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "Consensus"
     },
@@ -4913,7 +4938,7 @@
       "full_name": "tikv/raft-rs",
       "url": "https://github.com/tikv/raft-rs",
       "desc": "Raft distributed consensus algorithm implemented in Rust.",
-      "stars": 3417,
+      "stars": 3418,
       "lang": "Rust",
       "topics": [
         "distributed-consensus-algorithms",
@@ -4929,7 +4954,7 @@
       "full_name": "Tencent/phxpaxos",
       "url": "https://github.com/Tencent/phxpaxos",
       "desc": "The Paxos library implemented in C++ that has been used in the WeChat production environment.",
-      "stars": 3381,
+      "stars": 3380,
       "lang": "C++",
       "topics": [],
       "pushed": "2023-12-04",
@@ -4940,7 +4965,7 @@
       "full_name": "stateright/stateright",
       "url": "https://github.com/stateright/stateright",
       "desc": "A model checker for implementing distributed systems.",
-      "stars": 1925,
+      "stars": 1936,
       "lang": "Rust",
       "topics": [
         "actor-model",
@@ -4956,7 +4981,7 @@
       "full_name": "apache/ratis",
       "url": "https://github.com/apache/ratis",
       "desc": "Open source Java implementation for Raft consensus protocol.",
-      "stars": 1492,
+      "stars": 1491,
       "lang": "Java",
       "topics": [
         "consensus",
@@ -4964,7 +4989,7 @@
         "java",
         "raft"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Consensus"
     },
@@ -5003,10 +5028,10 @@
       "full_name": "savoirfairelinux/opendht",
       "url": "https://github.com/savoirfairelinux/opendht",
       "desc": "OpenDHT: a C++17 Distributed Hash Table implementation",
-      "stars": 1153,
+      "stars": 1152,
       "lang": "C++",
       "topics": [],
-      "pushed": "2026-11-04",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "DHT"
     },
@@ -5049,7 +5074,7 @@
       "full_name": "satwikkansal/python_blockchain_app",
       "url": "https://github.com/satwikkansal/python_blockchain_app",
       "desc": "A fully functional blockchain application implemented in Python from scratch (with tutorial).",
-      "stars": 851,
+      "stars": 853,
       "lang": "Python",
       "topics": [
         "blockchain",
@@ -5067,7 +5092,7 @@
       "full_name": "cocagne/paxos",
       "url": "https://github.com/cocagne/paxos",
       "desc": "Plain Paxos Implementations in Python & Java",
-      "stars": 590,
+      "stars": 592,
       "lang": "Python",
       "topics": [],
       "pushed": "2026-07-21",
@@ -5185,7 +5210,7 @@
       "full_name": "explosion/spaCy",
       "url": "https://github.com/explosion/spaCy",
       "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
-      "stars": 34038,
+      "stars": 34062,
       "lang": "Python",
       "topics": [
         "ai",
@@ -5203,7 +5228,7 @@
       "full_name": "nlpodyssey/spago",
       "url": "https://github.com/nlpodyssey/spago",
       "desc": "Self-contained Machine Learning and Natural Language Processing library in Go",
-      "stars": 1853,
+      "stars": 1852,
       "lang": "Go",
       "topics": [
         "artificial-intelligence",
@@ -5221,7 +5246,7 @@
       "full_name": "curiosity-ai/catalyst",
       "url": "https://github.com/curiosity-ai/catalyst",
       "desc": "🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity reco",
-      "stars": 861,
+      "stars": 864,
       "lang": "C#",
       "topics": [
         "ai",
@@ -5239,7 +5264,7 @@
       "full_name": "bminixhofer/nlprule",
       "url": "https://github.com/bminixhofer/nlprule",
       "desc": "A fast, low-resource Natural Language Processing and Text Correction library written in Rust.",
-      "stars": 679,
+      "stars": 680,
       "lang": "Rust",
       "topics": [
         "grammar",
@@ -5272,7 +5297,7 @@
       "full_name": "Quantinuum/lambeq",
       "url": "https://github.com/Quantinuum/lambeq",
       "desc": "A high-level Python library for Quantum Natural Language Processing",
-      "stars": 548,
+      "stars": 549,
       "lang": "Python",
       "topics": [
         "python",
@@ -5310,7 +5335,7 @@
       "full_name": "biopython/biopython",
       "url": "https://github.com/biopython/biopython",
       "desc": "Official git repository for Biopython (originally converted from CVS)",
-      "stars": 5268,
+      "stars": 5276,
       "lang": "Python",
       "topics": [
         "bioinformatics",
@@ -5320,7 +5345,7 @@
         "phylogenetics",
         "protein"
       ],
-      "pushed": "2026-11-06",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Bioinformatics"
     },
@@ -5328,7 +5353,7 @@
       "full_name": "danielecook/Awesome-Bioinformatics",
       "url": "https://github.com/danielecook/Awesome-Bioinformatics",
       "desc": "A curated list of awesome Bioinformatics libraries and software.",
-      "stars": 4360,
+      "stars": 4369,
       "lang": null,
       "topics": [
         "awesome",
@@ -5343,7 +5368,7 @@
       "full_name": "seandavi/awesome-single-cell",
       "url": "https://github.com/seandavi/awesome-single-cell",
       "desc": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
-      "stars": 3890,
+      "stars": 3894,
       "lang": null,
       "topics": [
         "analysis-pipeline",
@@ -5353,7 +5378,7 @@
         "cell-clusters",
         "cell-differentiation"
       ],
-      "pushed": "2026-11-07",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Bioinformatics"
     },
@@ -5361,7 +5386,7 @@
       "full_name": "google/deepvariant",
       "url": "https://github.com/google/deepvariant",
       "desc": "DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.",
-      "stars": 3828,
+      "stars": 3830,
       "lang": "Python",
       "topics": [
         "bioinformatics",
@@ -5379,7 +5404,7 @@
       "full_name": "sokrypton/ColabFold",
       "url": "https://github.com/sokrypton/ColabFold",
       "desc": "Making Protein folding accessible to all!",
-      "stars": 2982,
+      "stars": 2991,
       "lang": "Jupyter Notebook",
       "topics": [
         "bioinformatics",
@@ -5395,7 +5420,7 @@
       "full_name": "rust-bio/rust-bio",
       "url": "https://github.com/rust-bio/rust-bio",
       "desc": "This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.",
-      "stars": 1847,
+      "stars": 1849,
       "lang": "Rust",
       "topics": [],
       "pushed": "2026-10-12",
@@ -5406,7 +5431,7 @@
       "full_name": "omicverse/omicverse",
       "url": "https://github.com/omicverse/omicverse",
       "desc": "A python library for multi omics included bulk, single cell and spatial RNA-seq analysis.",
-      "stars": 1395,
+      "stars": 1400,
       "lang": "Python",
       "topics": [
         "bioinformatics",
@@ -5414,7 +5439,7 @@
         "omics",
         "single-cell"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Bioinformatics"
     },
@@ -5432,7 +5457,7 @@
         "microbiome",
         "multivariate-analysis"
       ],
-      "pushed": "2026-11-04",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "Bioinformatics"
     },
@@ -5440,7 +5465,7 @@
       "full_name": "a-r-j/graphein",
       "url": "https://github.com/a-r-j/graphein",
       "desc": "Protein Graph Library",
-      "stars": 1203,
+      "stars": 1205,
       "lang": "Jupyter Notebook",
       "topics": [
         "bioinformatics",
@@ -5450,7 +5475,7 @@
         "drug-discovery",
         "gene-regulatory-networks"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Bioinformatics"
     },
@@ -5458,7 +5483,7 @@
       "full_name": "biotite-dev/biotite",
       "url": "https://github.com/biotite-dev/biotite",
       "desc": "A comprehensive library for computational molecular biology",
-      "stars": 983,
+      "stars": 987,
       "lang": "Python",
       "topics": [
         "bioinformatics",
@@ -5467,7 +5492,7 @@
         "sequence-analysis",
         "structural-biology"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-11",
       "archived": false,
       "task": "Bioinformatics"
     },
@@ -5475,7 +5500,7 @@
       "full_name": "refresh-bio/FAMSA",
       "url": "https://github.com/refresh-bio/FAMSA",
       "desc": "Algorithm for ultra-scale multiple protein sequence alignments: 3 million ABC transporters analyzed in 5 minutes and 18 GB of RAM.",
-      "stars": 279,
+      "stars": 280,
       "lang": "C++",
       "topics": [
         "bioinformatics",
@@ -5587,7 +5612,7 @@
       "full_name": "bitpeach/Protocol-Informatics",
       "url": "https://github.com/bitpeach/Protocol-Informatics",
       "desc": "“Protocol Informatics” is a project to design for automatically network protocol reverse engineering based on frame or packet analysis. \"PI\" is short for “Protocol Informatics”, which introduces local and global sequence",
-      "stars": 53,
+      "stars": 52,
       "lang": null,
       "topics": [
         "network-protocol",
@@ -5631,7 +5656,7 @@
         "pairwise-alignment",
         "sequence-alignment"
       ],
-      "pushed": "2025-04-30",
+      "pushed": "2026-11-11",
       "archived": false,
       "task": "Bioinformatics"
     }
@@ -5641,7 +5666,7 @@
       "full_name": "recastnavigation/recastnavigation",
       "url": "https://github.com/recastnavigation/recastnavigation",
       "desc": "Industry-standard navigation-mesh toolset for games",
-      "stars": 8177,
+      "stars": 8194,
       "lang": "C++",
       "topics": [
         "ai",
@@ -5659,7 +5684,7 @@
       "full_name": "kwai/DouZero",
       "url": "https://github.com/kwai/DouZero",
       "desc": "[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI",
-      "stars": 4699,
+      "stars": 4705,
       "lang": "Python",
       "topics": [
         "doudizhu",
@@ -5675,7 +5700,7 @@
       "full_name": "tomlooman/ActionRoguelike",
       "url": "https://github.com/tomlooman/ActionRoguelike",
       "desc": "Project Orion - Co-op Action Roguelike in Unreal Engine C++",
-      "stars": 4656,
+      "stars": 4661,
       "lang": "C++",
       "topics": [
         "3d",
@@ -5685,7 +5710,7 @@
         "game-ai",
         "game-development"
       ],
-      "pushed": "2026-11-06",
+      "pushed": "2026-11-12",
       "archived": false,
       "task": "Game AI"
     },
@@ -5693,7 +5718,7 @@
       "full_name": "BehaviorTree/BehaviorTree.CPP",
       "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
       "desc": "Behavior Trees Library in C++. Batteries included.",
-      "stars": 4290,
+      "stars": 4296,
       "lang": "C++",
       "topics": [
         "ai",
@@ -5703,7 +5728,7 @@
         "robotics",
         "ros"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "Game AI"
     },
@@ -5711,7 +5736,7 @@
       "full_name": "datamllab/rlcard",
       "url": "https://github.com/datamllab/rlcard",
       "desc": "Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.",
-      "stars": 3590,
+      "stars": 3591,
       "lang": "Python",
       "topics": [
         "ai",
@@ -5747,7 +5772,7 @@
       "full_name": "google-deepmind/mctx",
       "url": "https://github.com/google-deepmind/mctx",
       "desc": "Monte Carlo tree search in JAX",
-      "stars": 2685,
+      "stars": 2686,
       "lang": "Python",
       "topics": [
         "jax",
@@ -5757,6 +5782,24 @@
       "pushed": "2026-10-05",
       "archived": false,
       "task": "MCTS"
+    },
+    {
+      "full_name": "WhiteTowerAI/ohmygame",
+      "url": "https://github.com/WhiteTowerAI/ohmygame",
+      "desc": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.",
+      "stars": 2271,
+      "lang": "TypeScript",
+      "topics": [
+        "ai-coding",
+        "ai-coding-agent",
+        "ai-game-design",
+        "ai-game-dev",
+        "ai-game-development",
+        "ai-image"
+      ],
+      "pushed": "2026-11-16",
+      "archived": false,
+      "task": "Game AI"
     },
     {
       "full_name": "sturdyspoon/unity-movement-ai",
@@ -5775,28 +5818,10 @@
       "task": "Game AI"
     },
     {
-      "full_name": "WhiteTowerAI/ohmygame",
-      "url": "https://github.com/WhiteTowerAI/ohmygame",
-      "desc": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.",
-      "stars": 1809,
-      "lang": "TypeScript",
-      "topics": [
-        "ai-coding",
-        "ai-coding-agent",
-        "ai-game-design",
-        "ai-game-dev",
-        "ai-game-development",
-        "ai-image"
-      ],
-      "pushed": "2026-11-09",
-      "archived": false,
-      "task": "Game AI"
-    },
-    {
       "full_name": "opendilab/LightZero",
       "url": "https://github.com/opendilab/LightZero",
       "desc": "[NeurIPS 2023 Spotlight] LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios (awesome MCTS)",
-      "stars": 1660,
+      "stars": 1663,
       "lang": "Python",
       "topics": [
         "alpha-beta-pruning",
@@ -5811,28 +5836,10 @@
       "task": "MCTS"
     },
     {
-      "full_name": "Equim-chan/Mortal",
-      "url": "https://github.com/Equim-chan/Mortal",
-      "desc": "🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.",
-      "stars": 1612,
-      "lang": "Rust",
-      "topics": [
-        "ai",
-        "deep-learning",
-        "game-ai",
-        "mahjong",
-        "mahjong-ai",
-        "mjai"
-      ],
-      "pushed": "2025-09-28",
-      "archived": false,
-      "task": "Game AI"
-    },
-    {
       "full_name": "YGYOOO/WorldX",
       "url": "https://github.com/YGYOOO/WorldX",
       "desc": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
-      "stars": 1593,
+      "stars": 1631,
       "lang": "TypeScript",
       "topics": [
         "agent",
@@ -5847,10 +5854,28 @@
       "task": "Game AI"
     },
     {
+      "full_name": "Equim-chan/Mortal",
+      "url": "https://github.com/Equim-chan/Mortal",
+      "desc": "🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.",
+      "stars": 1615,
+      "lang": "Rust",
+      "topics": [
+        "ai",
+        "deep-learning",
+        "game-ai",
+        "mahjong",
+        "mahjong-ai",
+        "mjai"
+      ],
+      "pushed": "2025-09-28",
+      "archived": false,
+      "task": "Game AI"
+    },
+    {
       "full_name": "Mugen87/yuka",
       "url": "https://github.com/Mugen87/yuka",
       "desc": "JavaScript library for developing Game AI.",
-      "stars": 1464,
+      "stars": 1466,
       "lang": "JavaScript",
       "topics": [
         "ai",
@@ -5895,7 +5920,7 @@
       "full_name": "adam-mcdaniel/chess-engine",
       "url": "https://github.com/adam-mcdaniel/chess-engine",
       "desc": "A dependency-free chess engine♟️ library built to run anywhere.",
-      "stars": 464,
+      "stars": 462,
       "lang": "Rust",
       "topics": [
         "ai",
@@ -5910,7 +5935,7 @@
       "full_name": "behavior3/behavior3js",
       "url": "https://github.com/behavior3/behavior3js",
       "desc": "Behavior3 client library for Javascript (Behavior Trees for Javascript)",
-      "stars": 432,
+      "stars": 433,
       "lang": "JavaScript",
       "topics": [],
       "pushed": "2021-12-23",
@@ -5972,7 +5997,7 @@
       "full_name": "Calamari/BehaviorTree.js",
       "url": "https://github.com/Calamari/BehaviorTree.js",
       "desc": "An JavaScript implementation of Behavior Trees.",
-      "stars": 339,
+      "stars": 340,
       "lang": "JavaScript",
       "topics": [
         "artificial-intelligence",
@@ -6051,7 +6076,7 @@
       "full_name": "arvidsson/BrainTree",
       "url": "https://github.com/arvidsson/BrainTree",
       "desc": "C++ behavior tree single header library",
-      "stars": 246,
+      "stars": 245,
       "lang": "C++",
       "topics": [
         "behavior-tree",
@@ -6091,7 +6116,7 @@
       "full_name": "krukah/robopoker",
       "url": "https://github.com/krukah/robopoker",
       "desc": "Everything you could wish for in a library called RoboPoker. Full suite of data structures, algorithms, solvers, ML models, and more.",
-      "stars": 232,
+      "stars": 233,
       "lang": "Rust",
       "topics": [
         "ai",
@@ -6126,7 +6151,7 @@
       "full_name": "liabru/matter-js",
       "url": "https://github.com/liabru/matter-js",
       "desc": "a 2D rigid body physics engine for the web ▲● ■",
-      "stars": 18611,
+      "stars": 18646,
       "lang": "JavaScript",
       "topics": [
         "canvas",
@@ -6144,10 +6169,10 @@
       "full_name": "erincatto/box2d",
       "url": "https://github.com/erincatto/box2d",
       "desc": "Box2D is a 2D physics engine for games",
-      "stars": 10481,
+      "stars": 10498,
       "lang": "C",
       "topics": [],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Physics"
     },
@@ -6155,10 +6180,10 @@
       "full_name": "erincatto/box3d",
       "url": "https://github.com/erincatto/box3d",
       "desc": "Box3D is a 3D physics engine for games",
-      "stars": 6761,
+      "stars": 6786,
       "lang": "C",
       "topics": [],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-13",
       "archived": false,
       "task": "Physics"
     },
@@ -6166,7 +6191,7 @@
       "full_name": "dimforge/rapier",
       "url": "https://github.com/dimforge/rapier",
       "desc": "2D and 3D physics engines focused on performance.",
-      "stars": 6048,
+      "stars": 6084,
       "lang": "Rust",
       "topics": [],
       "pushed": "2026-11-01",
@@ -6177,7 +6202,7 @@
       "full_name": "newton-physics/newton",
       "url": "https://github.com/newton-physics/newton",
       "desc": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "stars": 5913,
+      "stars": 5960,
       "lang": "Python",
       "topics": [
         "newton-physics",
@@ -6185,7 +6210,7 @@
         "physics-simulation",
         "robotics"
       ],
-      "pushed": "2026-11-09",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Physics"
     },
@@ -6193,7 +6218,7 @@
       "full_name": "piqnt/planck.js",
       "url": "https://github.com/piqnt/planck.js",
       "desc": "2D JavaScript Physics Engine",
-      "stars": 5313,
+      "stars": 5321,
       "lang": "TypeScript",
       "topics": [
         "2d",
@@ -6203,7 +6228,7 @@
         "game-development",
         "game-engine"
       ],
-      "pushed": "2026-10-23",
+      "pushed": "2026-11-14",
       "archived": false,
       "task": "Physics"
     },
@@ -6211,7 +6236,7 @@
       "full_name": "schteppe/cannon.js",
       "url": "https://github.com/schteppe/cannon.js",
       "desc": "A lightweight 3D physics engine written in JavaScript.",
-      "stars": 5013,
+      "stars": 5014,
       "lang": "JavaScript",
       "topics": [
         "javascript",
@@ -6225,7 +6250,7 @@
       "full_name": "DanielMartinus/Konfetti",
       "url": "https://github.com/DanielMartinus/Konfetti",
       "desc": "Celebrate more with this lightweight confetti particle system 🎊",
-      "stars": 3393,
+      "stars": 3394,
       "lang": "Kotlin",
       "topics": [
         "android",
@@ -6243,7 +6268,7 @@
       "full_name": "drawcall/Proton",
       "url": "https://github.com/drawcall/Proton",
       "desc": "Javascript particle animation library",
-      "stars": 2479,
+      "stars": 2520,
       "lang": "JavaScript",
       "topics": [
         "canvas",
@@ -6277,7 +6302,7 @@
       "full_name": "tom-mohr/particle-life-app",
       "url": "https://github.com/tom-mohr/particle-life-app",
       "desc": "🦠 Simulator for a particle system showing life-like behaviour.",
-      "stars": 1036,
+      "stars": 1037,
       "lang": "Java",
       "topics": [
         "artificial-life",
@@ -6294,7 +6319,7 @@
       "full_name": "JuliaDynamics/Agents.jl",
       "url": "https://github.com/JuliaDynamics/Agents.jl",
       "desc": "Agent-based modeling framework in Julia",
-      "stars": 924,
+      "stars": 927,
       "lang": "Julia",
       "topics": [
         "abm",
@@ -6330,7 +6355,7 @@
       "full_name": "glotzerlab/hoomd-blue",
       "url": "https://github.com/glotzerlab/hoomd-blue",
       "desc": "Molecular dynamics and Monte Carlo soft matter simulation on GPUs.",
-      "stars": 457,
+      "stars": 459,
       "lang": "C++",
       "topics": [
         "conda-forge",
@@ -6340,7 +6365,7 @@
         "hard-particle",
         "hoomd-blue"
       ],
-      "pushed": "2026-11-06",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Simulation"
     },
@@ -6348,7 +6373,7 @@
       "full_name": "jofmi/agentpy",
       "url": "https://github.com/jofmi/agentpy",
       "desc": "AgentPy is an open-source framework for the development and analysis of agent-based models in Python.",
-      "stars": 389,
+      "stars": 390,
       "lang": "Python",
       "topics": [
         "abm",
@@ -6387,7 +6412,7 @@
         "complex-systems",
         "cuda"
       ],
-      "pushed": "2026-11-03",
+      "pushed": "2026-11-11",
       "archived": false,
       "task": "ABM"
     }
@@ -6397,7 +6422,7 @@
       "full_name": "algorithm-visualizer/algorithm-visualizer",
       "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
       "desc": ":fireworks:Interactive Online Platform that Visualizes Algorithms from Code",
-      "stars": 49418,
+      "stars": 49520,
       "lang": "JavaScript",
       "topics": [
         "algorithm",
@@ -6413,7 +6438,7 @@
       "full_name": "AtsushiSakai/PythonRobotics",
       "url": "https://github.com/AtsushiSakai/PythonRobotics",
       "desc": "Python sample codes and textbook for robotics algorithms.",
-      "stars": 30878,
+      "stars": 30929,
       "lang": "Python",
       "topics": [
         "algorithm",
@@ -6423,7 +6448,7 @@
         "autonomous-vehicles",
         "control"
       ],
-      "pushed": "2026-11-04",
+      "pushed": "2026-11-10",
       "archived": false,
       "task": "Multi"
     },
@@ -6446,7 +6471,7 @@
       "full_name": "TheAlgorithms/Rust",
       "url": "https://github.com/TheAlgorithms/Rust",
       "desc": " All Algorithms implemented in Rust ",
-      "stars": 26154,
+      "stars": 26183,
       "lang": "Rust",
       "topics": [
         "algorithms",
@@ -6463,10 +6488,10 @@
       "full_name": "tayllan/awesome-algorithms",
       "url": "https://github.com/tayllan/awesome-algorithms",
       "desc": "A curated list of awesome places to learn and/or practice algorithms.",
-      "stars": 25653,
+      "stars": 25666,
       "lang": null,
       "topics": [],
-      "pushed": "2026-10-13",
+      "pushed": "2026-11-16",
       "archived": false,
       "task": "Meta"
     },
@@ -6474,7 +6499,7 @@
       "full_name": "keon/algorithms",
       "url": "https://github.com/keon/algorithms",
       "desc": "Minimal examples of data structures and algorithms in Python",
-      "stars": 25593,
+      "stars": 25598,
       "lang": "Python",
       "topics": [
         "algorithm",
@@ -6492,7 +6517,7 @@
       "full_name": "trekhleb/homemade-machine-learning",
       "url": "https://github.com/trekhleb/homemade-machine-learning",
       "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
-      "stars": 24851,
+      "stars": 24857,
       "lang": "Jupyter Notebook",
       "topics": [
         "algorithm",
@@ -6510,7 +6535,7 @@
       "full_name": "TheAlgorithms/C",
       "url": "https://github.com/TheAlgorithms/C",
       "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
-      "stars": 22612,
+      "stars": 22642,
       "lang": "C",
       "topics": [
         "algorithm-challenges",
@@ -6528,7 +6553,7 @@
       "full_name": "lnishan/awesome-competitive-programming",
       "url": "https://github.com/lnishan/awesome-competitive-programming",
       "desc": ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
-      "stars": 14393,
+      "stars": 14410,
       "lang": null,
       "topics": [
         "algorithm",
@@ -6546,7 +6571,7 @@
       "full_name": "humanwhocodes/computer-science-in-javascript",
       "url": "https://github.com/humanwhocodes/computer-science-in-javascript",
       "desc": "Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. ",
-      "stars": 9112,
+      "stars": 9109,
       "lang": "JavaScript",
       "topics": [],
       "pushed": "2026-01-08",
@@ -6557,7 +6582,7 @@
       "full_name": "EndlessCheng/codeforces-go",
       "url": "https://github.com/EndlessCheng/codeforces-go",
       "desc": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
-      "stars": 8813,
+      "stars": 8809,
       "lang": "Go",
       "topics": [
         "acm-icpc",
@@ -6567,7 +6592,7 @@
         "codeforces-go",
         "codeforces-golang"
       ],
-      "pushed": "2026-11-08",
+      "pushed": "2026-11-15",
       "archived": false,
       "task": "Multi"
     },
@@ -6575,7 +6600,7 @@
       "full_name": "TheAlgorithms/C-Sharp",
       "url": "https://github.com/TheAlgorithms/C-Sharp",
       "desc": "All algorithms implemented in C#.",
-      "stars": 8208,
+      "stars": 8217,
       "lang": "C#",
       "topics": [
         "algorithm",
